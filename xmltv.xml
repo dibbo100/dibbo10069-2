@@ -1,0 +1,2618 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="BDS" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+	<channel id="I2.755031.microsoft.com">
+		<display-name>2 18 Plus Movies</display-name>
+		<display-name>2</display-name>
+		<display-name>18 Plus Movies</display-name>
+	</channel>
+	<channel id="I3.755376.microsoft.com">
+		<display-name>3 3e</display-name>
+		<display-name>3</display-name>
+		<display-name>3e</display-name>
+	</channel>
+	<channel id="I4.752180.microsoft.com">
+		<display-name>4 4Music</display-name>
+		<display-name>4</display-name>
+		<display-name>4Music</display-name>
+	</channel>
+	<channel id="I5.755775.microsoft.com">
+		<display-name>5 5 USA</display-name>
+		<display-name>5</display-name>
+		<display-name>5 USA</display-name>
+	</channel>
+	<channel id="I6.755776.microsoft.com">
+		<display-name>6 5*</display-name>
+		<display-name>6</display-name>
+		<display-name>5*</display-name>
+	</channel>
+	<channel id="I7.759895.microsoft.com">
+		<display-name>7 5USA +1</display-name>
+		<display-name>7</display-name>
+		<display-name>5USA +1</display-name>
+	</channel>
+	<channel id="I8.756565.microsoft.com">
+		<display-name>8 AAG TV</display-name>
+		<display-name>8</display-name>
+		<display-name>AAG TV</display-name>
+	</channel>
+	<channel id="I9.756775.microsoft.com">
+		<display-name>9 Aaj Tak</display-name>
+		<display-name>9</display-name>
+		<display-name>Aaj Tak</display-name>
+	</channel>
+	<channel id="I10.754905.microsoft.com">
+		<display-name>10 Aastha TV</display-name>
+		<display-name>10</display-name>
+		<display-name>Aastha TV</display-name>
+	</channel>
+	<channel id="I11.751530.microsoft.com">
+		<display-name>11 ABP News</display-name>
+		<display-name>11</display-name>
+		<display-name>ABP News</display-name>
+	</channel>
+	<channel id="I12.752017.microsoft.com">
+		<display-name>12 Abu Dhabi TV</display-name>
+		<display-name>12</display-name>
+		<display-name>Abu Dhabi TV</display-name>
+	</channel>
+	<channel id="I13.155447.microsoft.com">
+		<display-name>13 Adult Channel</display-name>
+		<display-name>13</display-name>
+		<display-name>Adult Channel</display-name>
+	</channel>
+	<channel id="I14.757347.microsoft.com">
+		<display-name>14 AIT</display-name>
+		<display-name>14</display-name>
+		<display-name>AIT</display-name>
+	</channel>
+	<channel id="I15.757358.microsoft.com">
+		<display-name>15 AIT Movistar</display-name>
+		<display-name>15</display-name>
+		<display-name>AIT Movistar</display-name>
+	</channel>
+	<channel id="I16.751042.microsoft.com">
+		<display-name>16 AL JAZEERA</display-name>
+		<display-name>16</display-name>
+		<display-name>AL JAZEERA</display-name>
+		<display-name>AL JAZEERA International</display-name>
+	</channel>
+	<channel id="I17.756174.microsoft.com">
+		<display-name>17 Al Jazeera Children</display-name>
+		<display-name>17</display-name>
+		<display-name>Al Jazeera Children</display-name>
+	</channel>
+	<channel id="I18.509198.microsoft.com">
+		<display-name>18 Alibi</display-name>
+		<display-name>18</display-name>
+		<display-name>Alibi</display-name>
+	</channel>
+	<channel id="I19.755451.microsoft.com">
+		<display-name>19 Alibi +1</display-name>
+		<display-name>19</display-name>
+		<display-name>Alibi +1</display-name>
+	</channel>
+	<channel id="I20.751820.microsoft.com">
+		<display-name>20 Alpha TV</display-name>
+		<display-name>20</display-name>
+		<display-name>Alpha TV</display-name>
+		<display-name>Zee Punjabi</display-name>
+	</channel>
+	<channel id="I21.752847.microsoft.com">
+		<display-name>21 AmateurBabe</display-name>
+		<display-name>21</display-name>
+		<display-name>AmateurBabe</display-name>
+		<display-name>Amateur Babes</display-name>
+	</channel>
+	<channel id="I22.608790.microsoft.com">
+		<display-name>22 Animal Planet</display-name>
+		<display-name>22</display-name>
+		<display-name>Animal Planet</display-name>
+	</channel>
+	<channel id="I23.765556.microsoft.com">
+		<display-name>23 Animal Planet</display-name>
+		<display-name>23</display-name>
+		<display-name>Animal Planet</display-name>
+	</channel>
+	<channel id="I24.752215.microsoft.com">
+		<display-name>24 AnimalPlan1</display-name>
+		<display-name>24</display-name>
+		<display-name>AnimalPlan1</display-name>
+		<display-name>Animal Planet +1</display-name>
+	</channel>
+	<channel id="I25.756972.microsoft.com">
+		<display-name>25 Anime Central</display-name>
+		<display-name>25</display-name>
+		<display-name>Anime Central</display-name>
+	</channel>
+	<channel id="I26.757346.microsoft.com">
+		<display-name>26 Ape TV</display-name>
+		<display-name>26</display-name>
+		<display-name>Ape TV</display-name>
+	</channel>
+	<channel id="I27.757223.microsoft.com">
+		<display-name>27 Arsenal TV</display-name>
+		<display-name>27</display-name>
+		<display-name>Arsenal TV</display-name>
+	</channel>
+	<channel id="I28.757364.microsoft.com">
+		<display-name>28 Arsenal TV Replay</display-name>
+		<display-name>28</display-name>
+		<display-name>Arsenal TV Replay</display-name>
+	</channel>
+	<channel id="I29.750612.microsoft.com">
+		<display-name>29 Ary Digital</display-name>
+		<display-name>29</display-name>
+		<display-name>Ary Digital</display-name>
+	</channel>
+	<channel id="I30.758257.microsoft.com">
+		<display-name>30 ARY News</display-name>
+		<display-name>30</display-name>
+		<display-name>ARY News</display-name>
+	</channel>
+	<channel id="I31.756561.microsoft.com">
+		<display-name>31 ARY One World</display-name>
+		<display-name>31</display-name>
+		<display-name>ARY One World</display-name>
+	</channel>
+	<channel id="I32.756562.microsoft.com">
+		<display-name>32 ARY QTV</display-name>
+		<display-name>32</display-name>
+		<display-name>ARY QTV</display-name>
+	</channel>
+	<channel id="I33.755041.microsoft.com">
+		<display-name>33 ATN Bangla</display-name>
+		<display-name>33</display-name>
+		<display-name>ATN Bangla</display-name>
+	</channel>
+	<channel id="I34.751621.microsoft.com">
+		<display-name>34 attheraces</display-name>
+		<display-name>34</display-name>
+		<display-name>attheraces</display-name>
+	</channel>
+	<channel id="I35.755017.microsoft.com">
+		<display-name>35 Audi Channel</display-name>
+		<display-name>35</display-name>
+		<display-name>Audi Channel</display-name>
+	</channel>
+	<channel id="I36.750655.microsoft.com">
+		<display-name>36 B4U Movies</display-name>
+		<display-name>36</display-name>
+		<display-name>B4U Movies</display-name>
+	</channel>
+	<channel id="I37.751725.microsoft.com">
+		<display-name>37 B4U Music</display-name>
+		<display-name>37</display-name>
+		<display-name>B4U Music</display-name>
+	</channel>
+	<channel id="I38.756584.microsoft.com">
+		<display-name>38 Babenation</display-name>
+		<display-name>38</display-name>
+		<display-name>Babenation</display-name>
+		<display-name>Babestation</display-name>
+	</channel>
+	<channel id="I39.756585.microsoft.com">
+		<display-name>39 Babeworld</display-name>
+		<display-name>39</display-name>
+		<display-name>Babeworld</display-name>
+	</channel>
+	<channel id="I40.756540.microsoft.com">
+		<display-name>40 Baby First TV</display-name>
+		<display-name>40</display-name>
+		<display-name>Baby First TV</display-name>
+	</channel>
+	<channel id="I41.754731.microsoft.com">
+		<display-name>41 Baby TV</display-name>
+		<display-name>41</display-name>
+		<display-name>Baby TV</display-name>
+	</channel>
+	<channel id="I42.752222.microsoft.com">
+		<display-name>42 Bangla TV</display-name>
+		<display-name>42</display-name>
+		<display-name>Bangla TV</display-name>
+	</channel>
+	<channel id="I43.751536.microsoft.com">
+		<display-name>43 BBC 2W</display-name>
+		<display-name>43</display-name>
+		<display-name>BBC 2W</display-name>
+		<display-name>BBC2 Wales</display-name>
+	</channel>
+	<channel id="I44.711188.microsoft.com">
+		<display-name>44 BBC FOUR</display-name>
+		<display-name>44</display-name>
+		<display-name>BBC FOUR</display-name>
+		<display-name>BBC Four</display-name>
+	</channel>
+	<channel id="I45.526214.microsoft.com">
+		<display-name>45 BBC NEWS</display-name>
+		<display-name>45</display-name>
+		<display-name>BBC NEWS</display-name>
+		<display-name>BBC News</display-name>
+	</channel>
+	<channel id="I46.70.microsoft.com">
+		<display-name>46 BBC ONE</display-name>
+		<display-name>46</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC One</display-name>
+	</channel>
+	<channel id="I47.1804.microsoft.com">
+		<display-name>47 BBC ONE</display-name>
+		<display-name>47</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 North West</display-name>
+	</channel>
+	<channel id="I48.2065.microsoft.com">
+		<display-name>48 BBC ONE</display-name>
+		<display-name>48</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 East</display-name>
+	</channel>
+	<channel id="I49.2067.microsoft.com">
+		<display-name>49 BBC ONE</display-name>
+		<display-name>49</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 Midlands</display-name>
+	</channel>
+	<channel id="I50.2069.microsoft.com">
+		<display-name>50 BBC ONE</display-name>
+		<display-name>50</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 North</display-name>
+	</channel>
+	<channel id="I51.2071.microsoft.com">
+		<display-name>51 BBC ONE</display-name>
+		<display-name>51</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 North East</display-name>
+	</channel>
+	<channel id="I52.2074.microsoft.com">
+		<display-name>52 BBC ONE</display-name>
+		<display-name>52</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 South</display-name>
+	</channel>
+	<channel id="I53.2076.microsoft.com">
+		<display-name>53 BBC ONE</display-name>
+		<display-name>53</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 West</display-name>
+	</channel>
+	<channel id="I54.2077.microsoft.com">
+		<display-name>54 BBC ONE</display-name>
+		<display-name>54</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 South West</display-name>
+	</channel>
+	<channel id="I55.2080.microsoft.com">
+		<display-name>55 BBC ONE</display-name>
+		<display-name>55</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 London</display-name>
+	</channel>
+	<channel id="I56.751508.microsoft.com">
+		<display-name>56 BBC ONE</display-name>
+		<display-name>56</display-name>
+		<display-name>BBC ONE</display-name>
+		<display-name>BBC1 South East</display-name>
+	</channel>
+	<channel id="I57.752874.microsoft.com">
+		<display-name>57 BBC One</display-name>
+		<display-name>57</display-name>
+		<display-name>BBC One</display-name>
+		<display-name>BBC1 East Yorkshire and Lincolnshire</display-name>
+	</channel>
+	<channel id="I58.752875.microsoft.com">
+		<display-name>58 BBC One</display-name>
+		<display-name>58</display-name>
+		<display-name>BBC One</display-name>
+		<display-name>BBC1 East Midlands</display-name>
+	</channel>
+	<channel id="I59.1307.microsoft.com">
+		<display-name>59 BBC ONE NI</display-name>
+		<display-name>59</display-name>
+		<display-name>BBC ONE NI</display-name>
+		<display-name>BBC1 Northern Ireland</display-name>
+	</channel>
+	<channel id="I60.1302.microsoft.com">
+		<display-name>60 BBC ONE Wales</display-name>
+		<display-name>60</display-name>
+		<display-name>BBC ONE Wales</display-name>
+		<display-name>BBC1 Wales</display-name>
+	</channel>
+	<channel id="I61.622379.microsoft.com">
+		<display-name>61 BBC Parliament</display-name>
+		<display-name>61</display-name>
+		<display-name>BBC Parliament</display-name>
+	</channel>
+	<channel id="I62.79.microsoft.com">
+		<display-name>62 BBC TWO</display-name>
+		<display-name>62</display-name>
+		<display-name>BBC TWO</display-name>
+		<display-name>BBC Two</display-name>
+	</channel>
+	<channel id="I63.1320.microsoft.com">
+		<display-name>63 BBC TWO</display-name>
+		<display-name>63</display-name>
+		<display-name>BBC TWO</display-name>
+		<display-name>BBC2 Northern Ireland</display-name>
+	</channel>
+	<channel id="I64.1322.microsoft.com">
+		<display-name>64 BBC TWO</display-name>
+		<display-name>64</display-name>
+		<display-name>BBC TWO</display-name>
+		<display-name>BBC2 Scotland</display-name>
+	</channel>
+	<channel id="I65.763488.microsoft.com">
+		<display-name>65 BBC Two HD</display-name>
+		<display-name>65</display-name>
+		<display-name>BBC Two HD</display-name>
+	</channel>
+	<channel id="I66.755781.microsoft.com">
+		<display-name>66 BBC1 Channel Islands</display-name>
+		<display-name>66</display-name>
+		<display-name>BBC1 Channel Islands</display-name>
+	</channel>
+	<channel id="I67.1308.microsoft.com">
+		<display-name>67 BBC1 Scotland</display-name>
+		<display-name>67</display-name>
+		<display-name>BBC1 Scotland</display-name>
+	</channel>
+	<channel id="I68.757361.microsoft.com">
+		<display-name>68 Bedroom TV</display-name>
+		<display-name>68</display-name>
+		<display-name>Bedroom TV</display-name>
+	</channel>
+	<channel id="I69.752789.microsoft.com">
+		<display-name>69 BEN</display-name>
+		<display-name>69</display-name>
+		<display-name>BEN</display-name>
+	</channel>
+	<channel id="I70.751761.microsoft.com">
+		<display-name>70 Best Direct</display-name>
+		<display-name>70</display-name>
+		<display-name>Best Direct</display-name>
+	</channel>
+	<channel id="I71.755025.microsoft.com">
+		<display-name>71 Best Direct Plus</display-name>
+		<display-name>71</display-name>
+		<display-name>Best Direct Plus</display-name>
+	</channel>
+	<channel id="I72.757352.microsoft.com">
+		<display-name>72 BET</display-name>
+		<display-name>72</display-name>
+		<display-name>BET</display-name>
+	</channel>
+	<channel id="I73.752765.microsoft.com">
+		<display-name>73 Bliss</display-name>
+		<display-name>73</display-name>
+		<display-name>Bliss</display-name>
+	</channel>
+	<channel id="I74.616064.microsoft.com">
+		<display-name>74 Bloomberg</display-name>
+		<display-name>74</display-name>
+		<display-name>Bloomberg</display-name>
+		<display-name>Bloomberg TV</display-name>
+	</channel>
+	<channel id="I75.756778.microsoft.com">
+		<display-name>75 Blue Kiss TV</display-name>
+		<display-name>75</display-name>
+		<display-name>Blue Kiss TV</display-name>
+	</channel>
+	<channel id="I76.750650.microsoft.com">
+		<display-name>76 Boomerang</display-name>
+		<display-name>76</display-name>
+		<display-name>Boomerang</display-name>
+	</channel>
+	<channel id="I77.755246.microsoft.com">
+		<display-name>77 Boomerang +1</display-name>
+		<display-name>77</display-name>
+		<display-name>Boomerang +1</display-name>
+	</channel>
+	<channel id="I78.608798.microsoft.com">
+		<display-name>78 Bravo</display-name>
+		<display-name>78</display-name>
+		<display-name>Bravo</display-name>
+	</channel>
+	<channel id="I79.752193.microsoft.com">
+		<display-name>79 Bravo +1</display-name>
+		<display-name>79</display-name>
+		<display-name>Bravo +1</display-name>
+	</channel>
+	<channel id="I80.755139.microsoft.com">
+		<display-name>80 BRAVO 2</display-name>
+		<display-name>80</display-name>
+		<display-name>BRAVO 2</display-name>
+	</channel>
+	<channel id="I81.757383.microsoft.com">
+		<display-name>81 Brit Asia TV</display-name>
+		<display-name>81</display-name>
+		<display-name>Brit Asia TV</display-name>
+	</channel>
+	<channel id="I82.750823.microsoft.com">
+		<display-name>82 British Eurosport 2</display-name>
+		<display-name>82</display-name>
+		<display-name>British Eurosport 2</display-name>
+	</channel>
+	<channel id="I83.756483.microsoft.com">
+		<display-name>83 Bubble Hits</display-name>
+		<display-name>83</display-name>
+		<display-name>Bubble Hits</display-name>
+	</channel>
+	<channel id="I84.756538.microsoft.com">
+		<display-name>84 Business Channel</display-name>
+		<display-name>84</display-name>
+		<display-name>Business Channel</display-name>
+	</channel>
+	<channel id="I85.751797.microsoft.com">
+		<display-name>85 Cartoon Net Too</display-name>
+		<display-name>85</display-name>
+		<display-name>Cartoon Net Too</display-name>
+		<display-name>Cartoon Network Too</display-name>
+	</channel>
+	<channel id="I86.157644.microsoft.com">
+		<display-name>86 Cartoon Netw. D</display-name>
+		<display-name>86</display-name>
+		<display-name>Cartoon Netw. D</display-name>
+		<display-name>Cartoon Network</display-name>
+	</channel>
+	<channel id="I87.755542.microsoft.com">
+		<display-name>87 Cartoonito</display-name>
+		<display-name>87</display-name>
+		<display-name>Cartoonito</display-name>
+	</channel>
+	<channel id="I88.751559.microsoft.com">
+		<display-name>88 CBBC Channel</display-name>
+		<display-name>88</display-name>
+		<display-name>CBBC Channel</display-name>
+		<display-name>CBBC</display-name>
+	</channel>
+	<channel id="I89.751557.microsoft.com">
+		<display-name>89 CBeebies</display-name>
+		<display-name>89</display-name>
+		<display-name>CBeebies</display-name>
+	</channel>
+	<channel id="I90.756526.microsoft.com">
+		<display-name>90 CBS Action</display-name>
+		<display-name>90</display-name>
+		<display-name>CBS Action</display-name>
+	</channel>
+	<channel id="I91.756863.microsoft.com">
+		<display-name>91 CBS Drama</display-name>
+		<display-name>91</display-name>
+		<display-name>CBS Drama</display-name>
+	</channel>
+	<channel id="I92.751821.microsoft.com">
+		<display-name>92 CBS Reality</display-name>
+		<display-name>92</display-name>
+		<display-name>CBS Reality</display-name>
+	</channel>
+	<channel id="I93.756973.microsoft.com">
+		<display-name>93 CBS Reality +1</display-name>
+		<display-name>93</display-name>
+		<display-name>CBS Reality +1</display-name>
+	</channel>
+	<channel id="I94.752589.microsoft.com">
+		<display-name>94 CCTV News</display-name>
+		<display-name>94</display-name>
+		<display-name>CCTV News</display-name>
+	</channel>
+	<channel id="I95.756549.microsoft.com">
+		<display-name>95 Celebrity Shop</display-name>
+		<display-name>95</display-name>
+		<display-name>Celebrity Shop</display-name>
+	</channel>
+	<channel id="I96.753269.microsoft.com">
+		<display-name>96 Celtic Tv</display-name>
+		<display-name>96</display-name>
+		<display-name>Celtic Tv</display-name>
+	</channel>
+	<channel id="I97.753656.microsoft.com">
+		<display-name>97 Challenge +1</display-name>
+		<display-name>97</display-name>
+		<display-name>Challenge +1</display-name>
+	</channel>
+	<channel id="I98.620222.microsoft.com">
+		<display-name>98 Challenge TV</display-name>
+		<display-name>98</display-name>
+		<display-name>Challenge TV</display-name>
+	</channel>
+	<channel id="I99.752849.microsoft.com">
+		<display-name>99 ChanLineup</display-name>
+		<display-name>99</display-name>
+		<display-name>ChanLineup</display-name>
+		<display-name>Channel Line-Up</display-name>
+	</channel>
+	<channel id="I100.90.microsoft.com">
+		<display-name>100 Channel 4</display-name>
+		<display-name>100</display-name>
+		<display-name>Channel 4</display-name>
+	</channel>
+	<channel id="I101.756480.microsoft.com">
+		<display-name>101 Channel 4 HD</display-name>
+		<display-name>101</display-name>
+		<display-name>Channel 4 HD</display-name>
+	</channel>
+	<channel id="I102.756616.microsoft.com">
+		<display-name>102 Channel 4+1</display-name>
+		<display-name>102</display-name>
+		<display-name>Channel 4+1</display-name>
+		<display-name>Channel 4 +1</display-name>
+	</channel>
+	<channel id="I103.26207.microsoft.com">
+		<display-name>103 CHANNEL M</display-name>
+		<display-name>103</display-name>
+		<display-name>CHANNEL M</display-name>
+	</channel>
+	<channel id="I104.756568.microsoft.com">
+		<display-name>104 Channel Punjab</display-name>
+		<display-name>104</display-name>
+		<display-name>Channel Punjab</display-name>
+	</channel>
+	<channel id="I105.755037.microsoft.com">
+		<display-name>105 Channel S</display-name>
+		<display-name>105</display-name>
+		<display-name>Channel S</display-name>
+	</channel>
+	<channel id="I106.752689.microsoft.com">
+		<display-name>106 Channel U</display-name>
+		<display-name>106</display-name>
+		<display-name>Channel U</display-name>
+	</channel>
+	<channel id="I107.752767.microsoft.com">
+		<display-name>107 Chart Show Dance</display-name>
+		<display-name>107</display-name>
+		<display-name>Chart Show Dance</display-name>
+	</channel>
+	<channel id="I108.752796.microsoft.com">
+		<display-name>108 ChartShow</display-name>
+		<display-name>108</display-name>
+		<display-name>ChartShow</display-name>
+		<display-name>Chart Show TV</display-name>
+	</channel>
+	<channel id="I109.752818.microsoft.com">
+		<display-name>109 ChatBox</display-name>
+		<display-name>109</display-name>
+		<display-name>ChatBox</display-name>
+		<display-name>Chat Box</display-name>
+	</channel>
+	<channel id="I110.752794.microsoft.com">
+		<display-name>110 Chelsea TV</display-name>
+		<display-name>110</display-name>
+		<display-name>Chelsea TV</display-name>
+	</channel>
+	<channel id="I111.755635.microsoft.com">
+		<display-name>111 CI</display-name>
+		<display-name>111</display-name>
+		<display-name>CI</display-name>
+	</channel>
+	<channel id="I112.755543.microsoft.com">
+		<display-name>112 CITV</display-name>
+		<display-name>112</display-name>
+		<display-name>CITV</display-name>
+	</channel>
+	<channel id="I113.755047.microsoft.com">
+		<display-name>113 Climax3</display-name>
+		<display-name>113</display-name>
+		<display-name>Climax3</display-name>
+	</channel>
+	<channel id="I114.757363.microsoft.com">
+		<display-name>114 Clubland TV</display-name>
+		<display-name>114</display-name>
+		<display-name>Clubland TV</display-name>
+	</channel>
+	<channel id="I115.751218.microsoft.com">
+		<display-name>115 CNBC</display-name>
+		<display-name>115</display-name>
+		<display-name>CNBC</display-name>
+	</channel>
+	<channel id="I116.758322.microsoft.com">
+		<display-name>116 CNBC Showtime</display-name>
+		<display-name>116</display-name>
+		<display-name>CNBC Showtime</display-name>
+	</channel>
+	<channel id="I117.54932.microsoft.com">
+		<display-name>117 CNNI</display-name>
+		<display-name>117</display-name>
+		<display-name>CNNI</display-name>
+		<display-name>CNN International</display-name>
+	</channel>
+	<channel id="I118.750989.microsoft.com">
+		<display-name>118 Comedy Central</display-name>
+		<display-name>118</display-name>
+		<display-name>Comedy Central</display-name>
+	</channel>
+	<channel id="I119.754811.microsoft.com">
+		<display-name>119 Comedy Central +1</display-name>
+		<display-name>119</display-name>
+		<display-name>Comedy Central +1</display-name>
+	</channel>
+	<channel id="I120.752967.microsoft.com">
+		<display-name>120 Comedy Central Extra</display-name>
+		<display-name>120</display-name>
+		<display-name>Comedy Central Extra</display-name>
+	</channel>
+	<channel id="I121.757344.microsoft.com">
+		<display-name>121 Comedy Central Extra</display-name>
+		<display-name>121</display-name>
+		<display-name>Comedy Central Extra</display-name>
+		<display-name>Comedy Central Extra +1</display-name>
+	</channel>
+	<channel id="I122.752175.microsoft.com">
+		<display-name>122 Community</display-name>
+		<display-name>122</display-name>
+		<display-name>Community</display-name>
+		<display-name>The Community Channel</display-name>
+	</channel>
+	<channel id="I123.752819.microsoft.com">
+		<display-name>123 CreateCraf</display-name>
+		<display-name>123</display-name>
+		<display-name>CreateCraf</display-name>
+		<display-name>Create &amp; Craft</display-name>
+	</channel>
+	<channel id="I124.756166.microsoft.com">
+		<display-name>124 Current TV</display-name>
+		<display-name>124</display-name>
+		<display-name>Current TV</display-name>
+	</channel>
+	<channel id="I125.629469.microsoft.com">
+		<display-name>125 Dave</display-name>
+		<display-name>125</display-name>
+		<display-name>Dave</display-name>
+	</channel>
+	<channel id="I126.753458.microsoft.com">
+		<display-name>126 Dave ja vu</display-name>
+		<display-name>126</display-name>
+		<display-name>Dave ja vu</display-name>
+	</channel>
+	<channel id="I127.755029.microsoft.com">
+		<display-name>127 Daystar</display-name>
+		<display-name>127</display-name>
+		<display-name>Daystar</display-name>
+	</channel>
+	<channel id="I128.756572.microsoft.com">
+		<display-name>128 DD India</display-name>
+		<display-name>128</display-name>
+		<display-name>DD India</display-name>
+	</channel>
+	<channel id="I129.756571.microsoft.com">
+		<display-name>129 DD News</display-name>
+		<display-name>129</display-name>
+		<display-name>DD News</display-name>
+	</channel>
+	<channel id="I130.752211.microsoft.com">
+		<display-name>130 Disc Channel +1</display-name>
+		<display-name>130</display-name>
+		<display-name>Disc Channel +1</display-name>
+		<display-name>Discovery Channel +1</display-name>
+	</channel>
+	<channel id="I131.750672.microsoft.com">
+		<display-name>131 Disc Home and Health</display-name>
+		<display-name>131</display-name>
+		<display-name>Disc Home and Health</display-name>
+		<display-name>Discovery Home and Health</display-name>
+	</channel>
+	<channel id="I132.617378.microsoft.com">
+		<display-name>132 Disc Science</display-name>
+		<display-name>132</display-name>
+		<display-name>Disc Science</display-name>
+		<display-name>Discovery Science</display-name>
+	</channel>
+	<channel id="I133.750622.microsoft.com">
+		<display-name>133 Disc Turbo</display-name>
+		<display-name>133</display-name>
+		<display-name>Disc Turbo</display-name>
+		<display-name>Discovery Turbo</display-name>
+	</channel>
+	<channel id="I134.608791.microsoft.com">
+		<display-name>134 Discovery Channel</display-name>
+		<display-name>134</display-name>
+		<display-name>Discovery Channel</display-name>
+	</channel>
+	<channel id="I135.756787.microsoft.com">
+		<display-name>135 Discovery HD</display-name>
+		<display-name>135</display-name>
+		<display-name>Discovery HD</display-name>
+	</channel>
+	<channel id="I136.759799.microsoft.com">
+		<display-name>136 Discovery HD</display-name>
+		<display-name>136</display-name>
+		<display-name>Discovery HD</display-name>
+	</channel>
+	<channel id="I137.617383.microsoft.com">
+		<display-name>137 Discovery History</display-name>
+		<display-name>137</display-name>
+		<display-name>Discovery History</display-name>
+	</channel>
+	<channel id="I138.754579.microsoft.com">
+		<display-name>138 Discovery Home and H</display-name>
+		<display-name>138</display-name>
+		<display-name>Discovery Home and H</display-name>
+		<display-name>Discovery Home and Health +1</display-name>
+	</channel>
+	<channel id="I139.757367.microsoft.com">
+		<display-name>139 Discovery Science +1</display-name>
+		<display-name>139</display-name>
+		<display-name>Discovery Science +1</display-name>
+	</channel>
+	<channel id="I140.754729.microsoft.com">
+		<display-name>140 Discovery Shed</display-name>
+		<display-name>140</display-name>
+		<display-name>Discovery Shed</display-name>
+	</channel>
+	<channel id="I141.752208.microsoft.com">
+		<display-name>141 Disney Chan +1</display-name>
+		<display-name>141</display-name>
+		<display-name>Disney Chan +1</display-name>
+		<display-name>Disney Channel +1</display-name>
+	</channel>
+	<channel id="I142.312906.microsoft.com">
+		<display-name>142 Disney Channel</display-name>
+		<display-name>142</display-name>
+		<display-name>Disney Channel</display-name>
+	</channel>
+	<channel id="I143.751537.microsoft.com">
+		<display-name>143 Disney Junior</display-name>
+		<display-name>143</display-name>
+		<display-name>Disney Junior</display-name>
+	</channel>
+	<channel id="I144.757368.microsoft.com">
+		<display-name>144 Disney Junior +</display-name>
+		<display-name>144</display-name>
+		<display-name>Disney Junior +</display-name>
+	</channel>
+	<channel id="I145.758566.microsoft.com">
+		<display-name>145 Disney XD</display-name>
+		<display-name>145</display-name>
+		<display-name>Disney XD</display-name>
+	</channel>
+	<channel id="I146.758567.microsoft.com">
+		<display-name>146 Disney XD+1</display-name>
+		<display-name>146</display-name>
+		<display-name>Disney XD+1</display-name>
+		<display-name>Disney XD +1</display-name>
+	</channel>
+	<channel id="I147.755040.microsoft.com">
+		<display-name>147 DM Digital</display-name>
+		<display-name>147</display-name>
+		<display-name>DM Digital</display-name>
+	</channel>
+	<channel id="I148.756563.microsoft.com">
+		<display-name>148 DM Islam TV</display-name>
+		<display-name>148</display-name>
+		<display-name>DM Islam TV</display-name>
+	</channel>
+	<channel id="I149.757155.microsoft.com">
+		<display-name>149 DMAX</display-name>
+		<display-name>149</display-name>
+		<display-name>DMAX</display-name>
+	</channel>
+	<channel id="I150.757342.microsoft.com">
+		<display-name>150 DMAX +1</display-name>
+		<display-name>150</display-name>
+		<display-name>DMAX +1</display-name>
+	</channel>
+	<channel id="I151.757343.microsoft.com">
+		<display-name>151 DMAX +2</display-name>
+		<display-name>151</display-name>
+		<display-name>DMAX +2</display-name>
+	</channel>
+	<channel id="I152.764155.microsoft.com">
+		<display-name>152 Drama</display-name>
+		<display-name>152</display-name>
+		<display-name>Drama</display-name>
+	</channel>
+	<channel id="I153.751220.microsoft.com">
+		<display-name>153 DW</display-name>
+		<display-name>153</display-name>
+		<display-name>DW</display-name>
+		<display-name>Deutsche Welle TV</display-name>
+	</channel>
+	<channel id="I154.752882.microsoft.com">
+		<display-name>154 E! Entertainment</display-name>
+		<display-name>154</display-name>
+		<display-name>E! Entertainment</display-name>
+	</channel>
+	<channel id="I155.750978.microsoft.com">
+		<display-name>155 E4</display-name>
+		<display-name>155</display-name>
+		<display-name>E4</display-name>
+	</channel>
+	<channel id="I156.752786.microsoft.com">
+		<display-name>156 E4+1</display-name>
+		<display-name>156</display-name>
+		<display-name>E4+1</display-name>
+		<display-name>E4 +1</display-name>
+	</channel>
+	<channel id="I157.26240.microsoft.com">
+		<display-name>157 Eden</display-name>
+		<display-name>157</display-name>
+		<display-name>Eden</display-name>
+	</channel>
+	<channel id="I158.26253.microsoft.com">
+		<display-name>158 Eden +1</display-name>
+		<display-name>158</display-name>
+		<display-name>Eden +1</display-name>
+	</channel>
+	<channel id="I159.755052.microsoft.com">
+		<display-name>159 Elite TV 4</display-name>
+		<display-name>159</display-name>
+		<display-name>Elite TV 4</display-name>
+	</channel>
+	<channel id="I160.756553.microsoft.com">
+		<display-name>160 Entrepreneur Channel</display-name>
+		<display-name>160</display-name>
+		<display-name>Entrepreneur Channel</display-name>
+	</channel>
+	<channel id="I161.756782.microsoft.com">
+		<display-name>161 Essex Babes</display-name>
+		<display-name>161</display-name>
+		<display-name>Essex Babes</display-name>
+	</channel>
+	<channel id="I162.391501.microsoft.com">
+		<display-name>162 Euronews</display-name>
+		<display-name>162</display-name>
+		<display-name>Euronews</display-name>
+		<display-name>Euronews (English)</display-name>
+	</channel>
+	<channel id="I163.750611.microsoft.com">
+		<display-name>163 Eurosport UK</display-name>
+		<display-name>163</display-name>
+		<display-name>Eurosport UK</display-name>
+		<display-name>British Eurosport</display-name>
+	</channel>
+	<channel id="I164.752582.microsoft.com">
+		<display-name>164 EWTN Catholic</display-name>
+		<display-name>164</display-name>
+		<display-name>EWTN Catholic</display-name>
+		<display-name>EWTN Global Catholic Network</display-name>
+	</channel>
+	<channel id="I165.750983.microsoft.com">
+		<display-name>165 Extreme Sports</display-name>
+		<display-name>165</display-name>
+		<display-name>Extreme Sports</display-name>
+	</channel>
+	<channel id="I166.756977.microsoft.com">
+		<display-name>166 Faith World TV</display-name>
+		<display-name>166</display-name>
+		<display-name>Faith World TV</display-name>
+	</channel>
+	<channel id="I167.756514.microsoft.com">
+		<display-name>167 Fame TV</display-name>
+		<display-name>167</display-name>
+		<display-name>Fame TV</display-name>
+	</channel>
+	<channel id="I168.756589.microsoft.com">
+		<display-name>168 Fantasy 1</display-name>
+		<display-name>168</display-name>
+		<display-name>Fantasy 1</display-name>
+	</channel>
+	<channel id="I169.751137.microsoft.com">
+		<display-name>169 Fashion TV</display-name>
+		<display-name>169</display-name>
+		<display-name>Fashion TV</display-name>
+	</channel>
+	<channel id="I170.756764.microsoft.com">
+		<display-name>170 Film24</display-name>
+		<display-name>170</display-name>
+		<display-name>Film24</display-name>
+	</channel>
+	<channel id="I171.631286.microsoft.com">
+		<display-name>171 Film4</display-name>
+		<display-name>171</display-name>
+		<display-name>Film4</display-name>
+	</channel>
+	<channel id="I172.751025.microsoft.com">
+		<display-name>172 Film4+1</display-name>
+		<display-name>172</display-name>
+		<display-name>Film4+1</display-name>
+	</channel>
+	<channel id="I173.450410.microsoft.com">
+		<display-name>173 Five</display-name>
+		<display-name>173</display-name>
+		<display-name>Five</display-name>
+		<display-name>five</display-name>
+	</channel>
+	<channel id="I174.754854.microsoft.com">
+		<display-name>174 Fizz</display-name>
+		<display-name>174</display-name>
+		<display-name>Fizz</display-name>
+	</channel>
+	<channel id="I175.757359.microsoft.com">
+		<display-name>175 Flava</display-name>
+		<display-name>175</display-name>
+		<display-name>Flava</display-name>
+	</channel>
+	<channel id="I176.26232.microsoft.com">
+		<display-name>176 FOX</display-name>
+		<display-name>176</display-name>
+		<display-name>FOX</display-name>
+	</channel>
+	<channel id="I177.757349.microsoft.com">
+		<display-name>177 FOX HD</display-name>
+		<display-name>177</display-name>
+		<display-name>FOX HD</display-name>
+	</channel>
+	<channel id="I178.751870.microsoft.com">
+		<display-name>178 Fox News</display-name>
+		<display-name>178</display-name>
+		<display-name>Fox News</display-name>
+	</channel>
+	<channel id="I179.755939.microsoft.com">
+		<display-name>179 France 24</display-name>
+		<display-name>179</display-name>
+		<display-name>France 24</display-name>
+	</channel>
+	<channel id="I180.752792.microsoft.com">
+		<display-name>180 Friendly</display-name>
+		<display-name>180</display-name>
+		<display-name>Friendly</display-name>
+		<display-name>Friendly TV</display-name>
+	</channel>
+	<channel id="I181.755658.microsoft.com">
+		<display-name>181 Gala TV</display-name>
+		<display-name>181</display-name>
+		<display-name>Gala TV</display-name>
+	</channel>
+	<channel id="I182.756582.microsoft.com">
+		<display-name>182 Gay Network</display-name>
+		<display-name>182</display-name>
+		<display-name>Gay Network</display-name>
+	</channel>
+	<channel id="I183.26267.microsoft.com">
+		<display-name>183 Gay TV</display-name>
+		<display-name>183</display-name>
+		<display-name>Gay TV</display-name>
+	</channel>
+	<channel id="I184.756592.microsoft.com">
+		<display-name>184 Gay:trade.tv</display-name>
+		<display-name>184</display-name>
+		<display-name>Gay:trade.tv</display-name>
+	</channel>
+	<channel id="I185.753152.microsoft.com">
+		<display-name>185 GayXchange</display-name>
+		<display-name>185</display-name>
+		<display-name>GayXchange</display-name>
+	</channel>
+	<channel id="I186.754735.microsoft.com">
+		<display-name>186 Gems TV</display-name>
+		<display-name>186</display-name>
+		<display-name>Gems TV</display-name>
+	</channel>
+	<channel id="I187.754885.microsoft.com">
+		<display-name>187 Gems.tv 2</display-name>
+		<display-name>187</display-name>
+		<display-name>Gems.tv 2</display-name>
+	</channel>
+	<channel id="I188.756558.microsoft.com">
+		<display-name>188 Genesis</display-name>
+		<display-name>188</display-name>
+		<display-name>Genesis</display-name>
+	</channel>
+	<channel id="I189.757378.microsoft.com">
+		<display-name>189 Geo News</display-name>
+		<display-name>189</display-name>
+		<display-name>Geo News</display-name>
+	</channel>
+	<channel id="I190.755038.microsoft.com">
+		<display-name>190 Geo UK</display-name>
+		<display-name>190</display-name>
+		<display-name>Geo UK</display-name>
+	</channel>
+	<channel id="I191.26295.microsoft.com">
+		<display-name>191 Get Lucky TV</display-name>
+		<display-name>191</display-name>
+		<display-name>Get Lucky TV</display-name>
+	</channel>
+	<channel id="I192.757382.microsoft.com">
+		<display-name>192 Glory TV</display-name>
+		<display-name>192</display-name>
+		<display-name>Glory TV</display-name>
+	</channel>
+	<channel id="I193.752811.microsoft.com">
+		<display-name>193 God Channel</display-name>
+		<display-name>193</display-name>
+		<display-name>God Channel</display-name>
+	</channel>
+	<channel id="I194.750639.microsoft.com">
+		<display-name>194 God Europe</display-name>
+		<display-name>194</display-name>
+		<display-name>God Europe</display-name>
+	</channel>
+	<channel id="I195.81523.microsoft.com">
+		<display-name>195 GOLD</display-name>
+		<display-name>195</display-name>
+		<display-name>GOLD</display-name>
+	</channel>
+	<channel id="I196.752140.microsoft.com">
+		<display-name>196 GOLD +1</display-name>
+		<display-name>196</display-name>
+		<display-name>GOLD +1</display-name>
+	</channel>
+	<channel id="I197.751499.microsoft.com">
+		<display-name>197 Good Food</display-name>
+		<display-name>197</display-name>
+		<display-name>Good Food</display-name>
+	</channel>
+	<channel id="I198.26196.microsoft.com">
+		<display-name>198 Good Food +1</display-name>
+		<display-name>198</display-name>
+		<display-name>Good Food +1</display-name>
+	</channel>
+	<channel id="I199.756556.microsoft.com">
+		<display-name>199 Gospel Channel</display-name>
+		<display-name>199</display-name>
+		<display-name>Gospel Channel</display-name>
+	</channel>
+	<channel id="I200.757395.microsoft.com">
+		<display-name>200 Happy Hour Girls</display-name>
+		<display-name>200</display-name>
+		<display-name>Happy Hour Girls</display-name>
+	</channel>
+	<channel id="I201.751546.microsoft.com">
+		<display-name>201 Heat TV</display-name>
+		<display-name>201</display-name>
+		<display-name>Heat TV</display-name>
+	</channel>
+	<channel id="I202.752213.microsoft.com">
+		<display-name>202 History +1</display-name>
+		<display-name>202</display-name>
+		<display-name>History +1</display-name>
+	</channel>
+	<channel id="I203.750470.microsoft.com">
+		<display-name>203 History Channel</display-name>
+		<display-name>203</display-name>
+		<display-name>History Channel</display-name>
+	</channel>
+	<channel id="I204.756537.microsoft.com">
+		<display-name>204 History Channel HD</display-name>
+		<display-name>204</display-name>
+		<display-name>History Channel HD</display-name>
+	</channel>
+	<channel id="I205.26248.microsoft.com">
+		<display-name>205 Hollywood TV</display-name>
+		<display-name>205</display-name>
+		<display-name>Hollywood TV</display-name>
+	</channel>
+	<channel id="I206.509197.microsoft.com">
+		<display-name>206 Home</display-name>
+		<display-name>206</display-name>
+		<display-name>Home</display-name>
+	</channel>
+	<channel id="I207.756551.microsoft.com">
+		<display-name>207 Home &amp; Travel</display-name>
+		<display-name>207</display-name>
+		<display-name>Home &amp; Travel</display-name>
+	</channel>
+	<channel id="I208.751664.microsoft.com">
+		<display-name>208 Home +1</display-name>
+		<display-name>208</display-name>
+		<display-name>Home +1</display-name>
+	</channel>
+	<channel id="I209.757013.microsoft.com">
+		<display-name>209 Home +2</display-name>
+		<display-name>209</display-name>
+		<display-name>Home +2</display-name>
+	</channel>
+	<channel id="I210.26269.microsoft.com">
+		<display-name>210 Horror Channel</display-name>
+		<display-name>210</display-name>
+		<display-name>Horror Channel</display-name>
+	</channel>
+	<channel id="I211.756769.microsoft.com">
+		<display-name>211 Horse and Country TV</display-name>
+		<display-name>211</display-name>
+		<display-name>Horse and Country TV</display-name>
+	</channel>
+	<channel id="I212.756596.microsoft.com">
+		<display-name>212 House Of Fun TV</display-name>
+		<display-name>212</display-name>
+		<display-name>House Of Fun TV</display-name>
+	</channel>
+	<channel id="I213.755051.microsoft.com">
+		<display-name>213 Hustler TV UK</display-name>
+		<display-name>213</display-name>
+		<display-name>Hustler TV UK</display-name>
+	</channel>
+	<channel id="I214.754884.microsoft.com">
+		<display-name>214 Ideal Vitality</display-name>
+		<display-name>214</display-name>
+		<display-name>Ideal Vitality</display-name>
+	</channel>
+	<channel id="I215.751205.microsoft.com">
+		<display-name>215 Ideal World</display-name>
+		<display-name>215</display-name>
+		<display-name>Ideal World</display-name>
+	</channel>
+	<channel id="I216.753283.microsoft.com">
+		<display-name>216 Information TV</display-name>
+		<display-name>216</display-name>
+		<display-name>Information TV</display-name>
+	</channel>
+	<channel id="I217.756511.microsoft.com">
+		<display-name>217 Information TV 2</display-name>
+		<display-name>217</display-name>
+		<display-name>Information TV 2</display-name>
+	</channel>
+	<channel id="I218.757376.microsoft.com">
+		<display-name>218 INI</display-name>
+		<display-name>218</display-name>
+		<display-name>INI</display-name>
+	</channel>
+	<channel id="I219.755333.microsoft.com">
+		<display-name>219 iPlay TV</display-name>
+		<display-name>219</display-name>
+		<display-name>iPlay TV</display-name>
+	</channel>
+	<channel id="I220.753282.microsoft.com">
+		<display-name>220 Islam Channel</display-name>
+		<display-name>220</display-name>
+		<display-name>Islam Channel</display-name>
+	</channel>
+	<channel id="I221.89.microsoft.com">
+		<display-name>221 ITV 1</display-name>
+		<display-name>221</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Granada</display-name>
+	</channel>
+	<channel id="I222.279.microsoft.com">
+		<display-name>222 ITV 1</display-name>
+		<display-name>222</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Yorkshire</display-name>
+	</channel>
+	<channel id="I223.1304.microsoft.com">
+		<display-name>223 ITV 1</display-name>
+		<display-name>223</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Wales</display-name>
+	</channel>
+	<channel id="I224.1305.microsoft.com">
+		<display-name>224 ITV 1</display-name>
+		<display-name>224</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 West of England</display-name>
+	</channel>
+	<channel id="I225.1309.microsoft.com">
+		<display-name>225 ITV 1</display-name>
+		<display-name>225</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Carlton West Country</display-name>
+	</channel>
+	<channel id="I226.1310.microsoft.com">
+		<display-name>226 ITV 1</display-name>
+		<display-name>226</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Carlton Central</display-name>
+	</channel>
+	<channel id="I227.1381.microsoft.com">
+		<display-name>227 ITV 1</display-name>
+		<display-name>227</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Meridian</display-name>
+	</channel>
+	<channel id="I228.2083.microsoft.com">
+		<display-name>228 ITV 1</display-name>
+		<display-name>228</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Anglia</display-name>
+	</channel>
+	<channel id="I229.2085.microsoft.com">
+		<display-name>229 ITV 1</display-name>
+		<display-name>229</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Border</display-name>
+	</channel>
+	<channel id="I230.2088.microsoft.com">
+		<display-name>230 ITV 1</display-name>
+		<display-name>230</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Channel</display-name>
+	</channel>
+	<channel id="I231.2090.microsoft.com">
+		<display-name>231 ITV 1</display-name>
+		<display-name>231</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>STV</display-name>
+	</channel>
+	<channel id="I232.2095.microsoft.com">
+		<display-name>232 ITV 1</display-name>
+		<display-name>232</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>STV</display-name>
+	</channel>
+	<channel id="I233.2098.microsoft.com">
+		<display-name>233 ITV 1</display-name>
+		<display-name>233</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 Tyne Tees Television</display-name>
+	</channel>
+	<channel id="I234.380936.microsoft.com">
+		<display-name>234 ITV 1</display-name>
+		<display-name>234</display-name>
+		<display-name>ITV 1</display-name>
+		<display-name>ITV1 London</display-name>
+	</channel>
+	<channel id="I235.649186.microsoft.com">
+		<display-name>235 ITV 2</display-name>
+		<display-name>235</display-name>
+		<display-name>ITV 2</display-name>
+		<display-name>ITV2</display-name>
+	</channel>
+	<channel id="I236.2100.microsoft.com">
+		<display-name>236 ITV1</display-name>
+		<display-name>236</display-name>
+		<display-name>ITV1</display-name>
+		<display-name>Ulster</display-name>
+	</channel>
+	<channel id="I237.755797.microsoft.com">
+		<display-name>237 ITV2 +1</display-name>
+		<display-name>237</display-name>
+		<display-name>ITV2 +1</display-name>
+	</channel>
+	<channel id="I238.753400.microsoft.com">
+		<display-name>238 ITV3</display-name>
+		<display-name>238</display-name>
+		<display-name>ITV3</display-name>
+	</channel>
+	<channel id="I239.755796.microsoft.com">
+		<display-name>239 ITV3+1</display-name>
+		<display-name>239</display-name>
+		<display-name>ITV3+1</display-name>
+	</channel>
+	<channel id="I240.754875.microsoft.com">
+		<display-name>240 ITV4</display-name>
+		<display-name>240</display-name>
+		<display-name>ITV4</display-name>
+	</channel>
+	<channel id="I241.757374.microsoft.com">
+		<display-name>241 JJB Golf</display-name>
+		<display-name>241</display-name>
+		<display-name>JJB Golf</display-name>
+	</channel>
+	<channel id="I242.756976.microsoft.com">
+		<display-name>242 JJB Sports TV</display-name>
+		<display-name>242</display-name>
+		<display-name>JJB Sports TV</display-name>
+	</channel>
+	<channel id="I243.757372.microsoft.com">
+		<display-name>243 JML BeautyShop</display-name>
+		<display-name>243</display-name>
+		<display-name>JML BeautyShop</display-name>
+	</channel>
+	<channel id="I244.757371.microsoft.com">
+		<display-name>244 JML Choice</display-name>
+		<display-name>244</display-name>
+		<display-name>JML Choice</display-name>
+	</channel>
+	<channel id="I245.752695.microsoft.com">
+		<display-name>245 JML Direct</display-name>
+		<display-name>245</display-name>
+		<display-name>JML Direct</display-name>
+	</channel>
+	<channel id="I246.757369.microsoft.com">
+		<display-name>246 JML Lifestyle</display-name>
+		<display-name>246</display-name>
+		<display-name>JML Lifestyle</display-name>
+	</channel>
+	<channel id="I247.757373.microsoft.com">
+		<display-name>247 JML Solutions</display-name>
+		<display-name>247</display-name>
+		<display-name>JML Solutions</display-name>
+	</channel>
+	<channel id="I248.751136.microsoft.com">
+		<display-name>248 Kerrang!</display-name>
+		<display-name>248</display-name>
+		<display-name>Kerrang!</display-name>
+	</channel>
+	<channel id="I249.757377.microsoft.com">
+		<display-name>249 Kicc TV</display-name>
+		<display-name>249</display-name>
+		<display-name>Kicc TV</display-name>
+	</channel>
+	<channel id="I250.751545.microsoft.com">
+		<display-name>250 Kiss</display-name>
+		<display-name>250</display-name>
+		<display-name>Kiss</display-name>
+	</channel>
+	<channel id="I251.756760.microsoft.com">
+		<display-name>251 LFC TV</display-name>
+		<display-name>251</display-name>
+		<display-name>LFC TV</display-name>
+	</channel>
+	<channel id="I252.766078.microsoft.com">
+		<display-name>252 Lifetime</display-name>
+		<display-name>252</display-name>
+		<display-name>Lifetime</display-name>
+	</channel>
+	<channel id="I253.757394.microsoft.com">
+		<display-name>253 Live XXX Babes</display-name>
+		<display-name>253</display-name>
+		<display-name>Live XXX Babes</display-name>
+	</channel>
+	<channel id="I254.26277.microsoft.com">
+		<display-name>254 Live XXX Tv</display-name>
+		<display-name>254</display-name>
+		<display-name>Live XXX Tv</display-name>
+		<display-name>Live XXX TV</display-name>
+	</channel>
+	<channel id="I255.154279.microsoft.com">
+		<display-name>255 Living</display-name>
+		<display-name>255</display-name>
+		<display-name>Living</display-name>
+	</channel>
+	<channel id="I256.751818.microsoft.com">
+		<display-name>256 Living +1</display-name>
+		<display-name>256</display-name>
+		<display-name>Living +1</display-name>
+	</channel>
+	<channel id="I257.753644.microsoft.com">
+		<display-name>257 Livingit</display-name>
+		<display-name>257</display-name>
+		<display-name>Livingit</display-name>
+	</channel>
+	<channel id="I258.752779.microsoft.com">
+		<display-name>258 Livingit+1</display-name>
+		<display-name>258</display-name>
+		<display-name>Livingit+1</display-name>
+	</channel>
+	<channel id="I259.754893.microsoft.com">
+		<display-name>259 Love World</display-name>
+		<display-name>259</display-name>
+		<display-name>Love World</display-name>
+	</channel>
+	<channel id="I260.754845.microsoft.com">
+		<display-name>260 Lucky Star</display-name>
+		<display-name>260</display-name>
+		<display-name>Lucky Star</display-name>
+	</channel>
+	<channel id="I261.755704.microsoft.com">
+		<display-name>261 LUXE.TV</display-name>
+		<display-name>261</display-name>
+		<display-name>LUXE.TV</display-name>
+	</channel>
+	<channel id="I262.756876.microsoft.com">
+		<display-name>262 Luxury Life HD</display-name>
+		<display-name>262</display-name>
+		<display-name>Luxury Life HD</display-name>
+	</channel>
+	<channel id="I263.751547.microsoft.com">
+		<display-name>263 Magic</display-name>
+		<display-name>263</display-name>
+		<display-name>Magic</display-name>
+	</channel>
+	<channel id="I264.756574.microsoft.com">
+		<display-name>264 Mana Telugu</display-name>
+		<display-name>264</display-name>
+		<display-name>Mana Telugu</display-name>
+	</channel>
+	<channel id="I265.751769.microsoft.com">
+		<display-name>265 MATV</display-name>
+		<display-name>265</display-name>
+		<display-name>MATV</display-name>
+	</channel>
+	<channel id="I266.753680.microsoft.com">
+		<display-name>266 Max TV</display-name>
+		<display-name>266</display-name>
+		<display-name>Max TV</display-name>
+	</channel>
+	<channel id="I267.754789.microsoft.com">
+		<display-name>267 More 4</display-name>
+		<display-name>267</display-name>
+		<display-name>More 4</display-name>
+		<display-name>More4</display-name>
+	</channel>
+	<channel id="I268.754805.microsoft.com">
+		<display-name>268 More 4+1</display-name>
+		<display-name>268</display-name>
+		<display-name>More 4+1</display-name>
+		<display-name>More4 +1</display-name>
+	</channel>
+	<channel id="I269.753279.microsoft.com">
+		<display-name>269 MOTORS TV</display-name>
+		<display-name>269</display-name>
+		<display-name>MOTORS TV</display-name>
+	</channel>
+	<channel id="I270.755618.microsoft.com">
+		<display-name>270 Movies 24</display-name>
+		<display-name>270</display-name>
+		<display-name>Movies 24</display-name>
+	</channel>
+	<channel id="I271.756262.microsoft.com">
+		<display-name>271 Movies 24+</display-name>
+		<display-name>271</display-name>
+		<display-name>Movies 24+</display-name>
+	</channel>
+	<channel id="I272.755906.microsoft.com">
+		<display-name>272 Movies 4 Men</display-name>
+		<display-name>272</display-name>
+		<display-name>Movies 4 Men</display-name>
+	</channel>
+	<channel id="I273.756528.microsoft.com">
+		<display-name>273 Movies 4 Men 2</display-name>
+		<display-name>273</display-name>
+		<display-name>Movies 4 Men 2</display-name>
+	</channel>
+	<channel id="I274.757356.microsoft.com">
+		<display-name>274 Movies4Men +1</display-name>
+		<display-name>274</display-name>
+		<display-name>Movies4Men +1</display-name>
+	</channel>
+	<channel id="I275.752131.microsoft.com">
+		<display-name>275 MTA Inter</display-name>
+		<display-name>275</display-name>
+		<display-name>MTA Inter</display-name>
+		<display-name>MTA International</display-name>
+	</channel>
+	<channel id="I276.479.microsoft.com">
+		<display-name>276 MTV</display-name>
+		<display-name>276</display-name>
+		<display-name>MTV</display-name>
+	</channel>
+	<channel id="I277.26209.microsoft.com">
+		<display-name>277 MTV +1</display-name>
+		<display-name>277</display-name>
+		<display-name>MTV +1</display-name>
+	</channel>
+	<channel id="I278.749158.microsoft.com">
+		<display-name>278 MTV Base</display-name>
+		<display-name>278</display-name>
+		<display-name>MTV Base</display-name>
+	</channel>
+	<channel id="I279.749162.microsoft.com">
+		<display-name>279 MTV Classic</display-name>
+		<display-name>279</display-name>
+		<display-name>MTV Classic</display-name>
+	</channel>
+	<channel id="I280.751128.microsoft.com">
+		<display-name>280 MTV Dance</display-name>
+		<display-name>280</display-name>
+		<display-name>MTV Dance</display-name>
+	</channel>
+	<channel id="I281.749161.microsoft.com">
+		<display-name>281 MTV Hits</display-name>
+		<display-name>281</display-name>
+		<display-name>MTV Hits</display-name>
+	</channel>
+	<channel id="I282.727758.microsoft.com">
+		<display-name>282 MTV Rocks</display-name>
+		<display-name>282</display-name>
+		<display-name>MTV Rocks</display-name>
+	</channel>
+	<channel id="I283.757379.microsoft.com">
+		<display-name>283 Music India</display-name>
+		<display-name>283</display-name>
+		<display-name>Music India</display-name>
+	</channel>
+	<channel id="I284.752799.microsoft.com">
+		<display-name>284 MusicChEx</display-name>
+		<display-name>284</display-name>
+		<display-name>MusicChEx</display-name>
+		<display-name>Music Choice Extra</display-name>
+	</channel>
+	<channel id="I285.752763.microsoft.com">
+		<display-name>285 MusicChoice</display-name>
+		<display-name>285</display-name>
+		<display-name>MusicChoice</display-name>
+		<display-name>Music Choice</display-name>
+	</channel>
+	<channel id="I286.631677.microsoft.com">
+		<display-name>286 MUTV</display-name>
+		<display-name>286</display-name>
+		<display-name>MUTV</display-name>
+	</channel>
+	<channel id="I287.756512.microsoft.com">
+		<display-name>287 My TV</display-name>
+		<display-name>287</display-name>
+		<display-name>My TV</display-name>
+	</channel>
+	<channel id="I288.756766.microsoft.com">
+		<display-name>288 My5</display-name>
+		<display-name>288</display-name>
+		<display-name>My5</display-name>
+	</channel>
+	<channel id="I289.750976.microsoft.com">
+		<display-name>289 Nat Geo Wild</display-name>
+		<display-name>289</display-name>
+		<display-name>Nat Geo Wild</display-name>
+	</channel>
+	<channel id="I290.752214.microsoft.com">
+		<display-name>290 National Geo +1</display-name>
+		<display-name>290</display-name>
+		<display-name>National Geo +1</display-name>
+		<display-name>National Geographic +1</display-name>
+	</channel>
+	<channel id="I291.610915.microsoft.com">
+		<display-name>291 National Geographic</display-name>
+		<display-name>291</display-name>
+		<display-name>National Geographic</display-name>
+		<display-name>National Geographic Channel</display-name>
+	</channel>
+	<channel id="I292.756536.microsoft.com">
+		<display-name>292 National Geographic</display-name>
+		<display-name>292</display-name>
+		<display-name>National Geographic</display-name>
+		<display-name>National Geographic Channel HD (UK)</display-name>
+	</channel>
+	<channel id="I293.755023.microsoft.com">
+		<display-name>293 NDTV 24x7</display-name>
+		<display-name>293</display-name>
+		<display-name>NDTV 24x7</display-name>
+	</channel>
+	<channel id="I294.757381.microsoft.com">
+		<display-name>294 NDTV Imagine</display-name>
+		<display-name>294</display-name>
+		<display-name>NDTV Imagine</display-name>
+	</channel>
+	<channel id="I295.751699.microsoft.com">
+		<display-name>295 Nick +1</display-name>
+		<display-name>295</display-name>
+		<display-name>Nick +1</display-name>
+	</channel>
+	<channel id="I296.750608.microsoft.com">
+		<display-name>296 Nick Jr</display-name>
+		<display-name>296</display-name>
+		<display-name>Nick Jr</display-name>
+	</channel>
+	<channel id="I297.755556.microsoft.com">
+		<display-name>297 Nick Jr 2</display-name>
+		<display-name>297</display-name>
+		<display-name>Nick Jr 2</display-name>
+	</channel>
+	<channel id="I298.751764.microsoft.com">
+		<display-name>298 Nick Toons</display-name>
+		<display-name>298</display-name>
+		<display-name>Nick Toons</display-name>
+	</channel>
+	<channel id="I299.750607.microsoft.com">
+		<display-name>299 Nickelodeon</display-name>
+		<display-name>299</display-name>
+		<display-name>Nickelodeon</display-name>
+	</channel>
+	<channel id="I300.757362.microsoft.com">
+		<display-name>300 NME TV</display-name>
+		<display-name>300</display-name>
+		<display-name>NME TV</display-name>
+	</channel>
+	<channel id="I301.757357.microsoft.com">
+		<display-name>301 Nollywood Movies</display-name>
+		<display-name>301</display-name>
+		<display-name>Nollywood Movies</display-name>
+	</channel>
+	<channel id="I302.756979.microsoft.com">
+		<display-name>302 Noor TV</display-name>
+		<display-name>302</display-name>
+		<display-name>Noor TV</display-name>
+	</channel>
+	<channel id="I303.756781.microsoft.com">
+		<display-name>303 Northern Birds</display-name>
+		<display-name>303</display-name>
+		<display-name>Northern Birds</display-name>
+	</channel>
+	<channel id="I304.756567.microsoft.com">
+		<display-name>304 NTV UK</display-name>
+		<display-name>304</display-name>
+		<display-name>NTV UK</display-name>
+	</channel>
+	<channel id="I305.757360.microsoft.com">
+		<display-name>305 O Music TV</display-name>
+		<display-name>305</display-name>
+		<display-name>O Music TV</display-name>
+	</channel>
+	<channel id="I306.754828.microsoft.com">
+		<display-name>306 OBE</display-name>
+		<display-name>306</display-name>
+		<display-name>OBE</display-name>
+		<display-name>Original Black Entertainment</display-name>
+	</channel>
+	<channel id="I307.756510.microsoft.com">
+		<display-name>307 Open Access 3</display-name>
+		<display-name>307</display-name>
+		<display-name>Open Access 3</display-name>
+	</channel>
+	<channel id="I308.754836.microsoft.com">
+		<display-name>308 OPEN ACCESS TV 2</display-name>
+		<display-name>308</display-name>
+		<display-name>OPEN ACCESS TV 2</display-name>
+	</channel>
+	<channel id="I309.752815.microsoft.com">
+		<display-name>309 OpenAccess</display-name>
+		<display-name>309</display-name>
+		<display-name>OpenAccess</display-name>
+		<display-name>Open Access TV</display-name>
+	</channel>
+	<channel id="I310.756983.microsoft.com">
+		<display-name>310 Over 18 TV</display-name>
+		<display-name>310</display-name>
+		<display-name>Over 18 TV</display-name>
+	</channel>
+	<channel id="I311.756521.microsoft.com">
+		<display-name>311 Overseas Property TV</display-name>
+		<display-name>311</display-name>
+		<display-name>Overseas Property TV</display-name>
+	</channel>
+	<channel id="I312.754846.microsoft.com">
+		<display-name>312 Passion Tv</display-name>
+		<display-name>312</display-name>
+		<display-name>Passion Tv</display-name>
+	</channel>
+	<channel id="I313.755413.microsoft.com">
+		<display-name>313 Paul Raymond TV</display-name>
+		<display-name>313</display-name>
+		<display-name>Paul Raymond TV</display-name>
+	</channel>
+	<channel id="I314.756980.microsoft.com">
+		<display-name>314 Peace TV</display-name>
+		<display-name>314</display-name>
+		<display-name>Peace TV</display-name>
+	</channel>
+	<channel id="I315.756974.microsoft.com">
+		<display-name>315 Performance Mainstre</display-name>
+		<display-name>315</display-name>
+		<display-name>Performance Mainstre</display-name>
+		<display-name>Performance Mainstreet</display-name>
+	</channel>
+	<channel id="I316.616572.microsoft.com">
+		<display-name>316 Phoenix CNE</display-name>
+		<display-name>316</display-name>
+		<display-name>Phoenix CNE</display-name>
+		<display-name>Phoenix Chinese News Enterprise</display-name>
+	</channel>
+	<channel id="I317.754816.microsoft.com">
+		<display-name>317 Pick</display-name>
+		<display-name>317</display-name>
+		<display-name>Pick</display-name>
+	</channel>
+	<channel id="I318.756981.microsoft.com">
+		<display-name>318 Pitch Gaming</display-name>
+		<display-name>318</display-name>
+		<display-name>Pitch Gaming</display-name>
+	</channel>
+	<channel id="I319.756982.microsoft.com">
+		<display-name>319 Pitch Gaming 2</display-name>
+		<display-name>319</display-name>
+		<display-name>Pitch Gaming 2</display-name>
+	</channel>
+	<channel id="I320.755024.microsoft.com">
+		<display-name>320 Pitch TV</display-name>
+		<display-name>320</display-name>
+		<display-name>Pitch TV</display-name>
+	</channel>
+	<channel id="I321.757370.microsoft.com">
+		<display-name>321 Pitch World</display-name>
+		<display-name>321</display-name>
+		<display-name>Pitch World</display-name>
+	</channel>
+	<channel id="I322.756960.microsoft.com">
+		<display-name>322 Pop</display-name>
+		<display-name>322</display-name>
+		<display-name>Pop</display-name>
+	</channel>
+	<channel id="I323.756774.microsoft.com">
+		<display-name>323 Pop +1</display-name>
+		<display-name>323</display-name>
+		<display-name>Pop +1</display-name>
+	</channel>
+	<channel id="I324.756773.microsoft.com">
+		<display-name>324 Pop Girl</display-name>
+		<display-name>324</display-name>
+		<display-name>Pop Girl</display-name>
+	</channel>
+	<channel id="I325.756550.microsoft.com">
+		<display-name>325 Price Crash 2</display-name>
+		<display-name>325</display-name>
+		<display-name>Price Crash 2</display-name>
+	</channel>
+	<channel id="I326.751629.microsoft.com">
+		<display-name>326 Prime TV</display-name>
+		<display-name>326</display-name>
+		<display-name>Prime TV</display-name>
+	</channel>
+	<channel id="I327.754951.microsoft.com">
+		<display-name>327 Propeller TV</display-name>
+		<display-name>327</display-name>
+		<display-name>Propeller TV</display-name>
+	</channel>
+	<channel id="I328.756583.microsoft.com">
+		<display-name>328 Psychic TV</display-name>
+		<display-name>328</display-name>
+		<display-name>Psychic TV</display-name>
+	</channel>
+	<channel id="I329.756570.microsoft.com">
+		<display-name>329 PTV Global</display-name>
+		<display-name>329</display-name>
+		<display-name>PTV Global</display-name>
+	</channel>
+	<channel id="I330.752829.microsoft.com">
+		<display-name>330 Pub</display-name>
+		<display-name>330</display-name>
+		<display-name>Pub</display-name>
+		<display-name>Pub Channel</display-name>
+	</channel>
+	<channel id="I331.757351.microsoft.com">
+		<display-name>331 Pulse</display-name>
+		<display-name>331</display-name>
+		<display-name>Pulse</display-name>
+	</channel>
+	<channel id="I332.167692.microsoft.com">
+		<display-name>332 QVC</display-name>
+		<display-name>332</display-name>
+		<display-name>QVC</display-name>
+	</channel>
+	<channel id="I333.753292.microsoft.com">
+		<display-name>333 Racing UK</display-name>
+		<display-name>333</display-name>
+		<display-name>Racing UK</display-name>
+	</channel>
+	<channel id="I334.754523.microsoft.com">
+		<display-name>334 Racing World</display-name>
+		<display-name>334</display-name>
+		<display-name>Racing World</display-name>
+	</channel>
+	<channel id="I335.754847.microsoft.com">
+		<display-name>335 Raj Tv</display-name>
+		<display-name>335</display-name>
+		<display-name>Raj Tv</display-name>
+	</channel>
+	<channel id="I336.753271.microsoft.com">
+		<display-name>336 Rangers TV</display-name>
+		<display-name>336</display-name>
+		<display-name>Rangers TV</display-name>
+	</channel>
+	<channel id="I337.755016.microsoft.com">
+		<display-name>337 Real Estate TV</display-name>
+		<display-name>337</display-name>
+		<display-name>Real Estate TV</display-name>
+	</channel>
+	<channel id="I338.756519.microsoft.com">
+		<display-name>338 Real Estate TV +1</display-name>
+		<display-name>338</display-name>
+		<display-name>Real Estate TV +1</display-name>
+	</channel>
+	<channel id="I339.755108.microsoft.com">
+		<display-name>339 Real Madrid TV</display-name>
+		<display-name>339</display-name>
+		<display-name>Real Madrid TV</display-name>
+	</channel>
+	<channel id="I340.753872.microsoft.com">
+		<display-name>340 Really</display-name>
+		<display-name>340</display-name>
+		<display-name>Really</display-name>
+	</channel>
+	<channel id="I341.753262.microsoft.com">
+		<display-name>341 Record TV</display-name>
+		<display-name>341</display-name>
+		<display-name>Record TV</display-name>
+	</channel>
+	<channel id="I342.757388.microsoft.com">
+		<display-name>342 Red Hot 18s</display-name>
+		<display-name>342</display-name>
+		<display-name>Red Hot 18s</display-name>
+	</channel>
+	<channel id="I343.756591.microsoft.com">
+		<display-name>343 Red Hot 40+</display-name>
+		<display-name>343</display-name>
+		<display-name>Red Hot 40+</display-name>
+	</channel>
+	<channel id="I344.751625.microsoft.com">
+		<display-name>344 Red Hot Amateur</display-name>
+		<display-name>344</display-name>
+		<display-name>Red Hot Amateur</display-name>
+	</channel>
+	<channel id="I345.757389.microsoft.com">
+		<display-name>345 Red Hot DD</display-name>
+		<display-name>345</display-name>
+		<display-name>Red Hot DD</display-name>
+	</channel>
+	<channel id="I346.757390.microsoft.com">
+		<display-name>346 Red Hot Fetish</display-name>
+		<display-name>346</display-name>
+		<display-name>Red Hot Fetish</display-name>
+	</channel>
+	<channel id="I347.751624.microsoft.com">
+		<display-name>347 Red Hot Girls</display-name>
+		<display-name>347</display-name>
+		<display-name>Red Hot Girls</display-name>
+	</channel>
+	<channel id="I348.755725.microsoft.com">
+		<display-name>348 Red Hot Raw</display-name>
+		<display-name>348</display-name>
+		<display-name>Red Hot Raw</display-name>
+	</channel>
+	<channel id="I349.757392.microsoft.com">
+		<display-name>349 Red Hot Viewers</display-name>
+		<display-name>349</display-name>
+		<display-name>Red Hot Viewers</display-name>
+	</channel>
+	<channel id="I350.757345.microsoft.com">
+		<display-name>350 Red TV</display-name>
+		<display-name>350</display-name>
+		<display-name>Red TV</display-name>
+	</channel>
+	<channel id="I351.752813.microsoft.com">
+		<display-name>351 Revelation</display-name>
+		<display-name>351</display-name>
+		<display-name>Revelation</display-name>
+	</channel>
+	<channel id="I352.760911.microsoft.com">
+		<display-name>352 Rishtey</display-name>
+		<display-name>352</display-name>
+		<display-name>Rishtey</display-name>
+	</channel>
+	<channel id="I353.756529.microsoft.com">
+		<display-name>353 Rock World TV</display-name>
+		<display-name>353</display-name>
+		<display-name>Rock World TV</display-name>
+	</channel>
+	<channel id="I354.756209.microsoft.com">
+		<display-name>354 RT English</display-name>
+		<display-name>354</display-name>
+		<display-name>RT English</display-name>
+	</channel>
+	<channel id="I355.751696.microsoft.com">
+		<display-name>355 RTE ONE</display-name>
+		<display-name>355</display-name>
+		<display-name>RTE ONE</display-name>
+		<display-name>RTE1</display-name>
+	</channel>
+	<channel id="I356.24905.microsoft.com">
+		<display-name>356 RTE Two</display-name>
+		<display-name>356</display-name>
+		<display-name>RTE Two</display-name>
+	</channel>
+	<channel id="I357.757366.microsoft.com">
+		<display-name>357 Rush HD</display-name>
+		<display-name>357</display-name>
+		<display-name>Rush HD</display-name>
+	</channel>
+	<channel id="I358.750643.microsoft.com">
+		<display-name>358 S4C</display-name>
+		<display-name>358</display-name>
+		<display-name>S4C</display-name>
+	</channel>
+	<channel id="I359.753261.microsoft.com">
+		<display-name>359 SAB TV</display-name>
+		<display-name>359</display-name>
+		<display-name>SAB TV</display-name>
+	</channel>
+	<channel id="I360.756576.microsoft.com">
+		<display-name>360 Sahara One</display-name>
+		<display-name>360</display-name>
+		<display-name>Sahara One</display-name>
+	</channel>
+	<channel id="I361.752851.microsoft.com">
+		<display-name>361 SBOPreview</display-name>
+		<display-name>361</display-name>
+		<display-name>SBOPreview</display-name>
+		<display-name>Sky Box Office Preview Channel</display-name>
+	</channel>
+	<channel id="I362.752701.microsoft.com">
+		<display-name>362 Screenshop 2</display-name>
+		<display-name>362</display-name>
+		<display-name>Screenshop 2</display-name>
+	</channel>
+	<channel id="I363.752766.microsoft.com">
+		<display-name>363 Scuzz</display-name>
+		<display-name>363</display-name>
+		<display-name>Scuzz</display-name>
+	</channel>
+	<channel id="I364.616573.microsoft.com">
+		<display-name>364 SET</display-name>
+		<display-name>364</display-name>
+		<display-name>SET</display-name>
+		<display-name>Sony Entertainment Television</display-name>
+	</channel>
+	<channel id="I365.755035.microsoft.com">
+		<display-name>365 SET Max</display-name>
+		<display-name>365</display-name>
+		<display-name>SET Max</display-name>
+	</channel>
+	<channel id="I366.755899.microsoft.com">
+		<display-name>366 Setanta Golf</display-name>
+		<display-name>366</display-name>
+		<display-name>Setanta Golf</display-name>
+	</channel>
+	<channel id="I367.753280.microsoft.com">
+		<display-name>367 Setanta Sports</display-name>
+		<display-name>367</display-name>
+		<display-name>Setanta Sports</display-name>
+		<display-name>Setanta Sports Ireland</display-name>
+	</channel>
+	<channel id="I368.753272.microsoft.com">
+		<display-name>368 Setanta Sports 1</display-name>
+		<display-name>368</display-name>
+		<display-name>Setanta Sports 1</display-name>
+	</channel>
+	<channel id="I369.756505.microsoft.com">
+		<display-name>369 Setanta Sports 1</display-name>
+		<display-name>369</display-name>
+		<display-name>Setanta Sports 1</display-name>
+	</channel>
+	<channel id="I370.754520.microsoft.com">
+		<display-name>370 Setanta Sports 2</display-name>
+		<display-name>370</display-name>
+		<display-name>Setanta Sports 2</display-name>
+	</channel>
+	<channel id="I371.756681.microsoft.com">
+		<display-name>371 Setanta Sports News</display-name>
+		<display-name>371</display-name>
+		<display-name>Setanta Sports News</display-name>
+	</channel>
+	<channel id="I372.752804.microsoft.com">
+		<display-name>372 ShopOnTV</display-name>
+		<display-name>372</display-name>
+		<display-name>ShopOnTV</display-name>
+		<display-name>Shop On TV</display-name>
+	</channel>
+	<channel id="I373.752707.microsoft.com">
+		<display-name>373 Simply Ideas</display-name>
+		<display-name>373</display-name>
+		<display-name>Simply Ideas</display-name>
+	</channel>
+	<channel id="I374.750973.microsoft.com">
+		<display-name>374 Sky Arts 1</display-name>
+		<display-name>374</display-name>
+		<display-name>Sky Arts 1</display-name>
+	</channel>
+	<channel id="I375.756518.microsoft.com">
+		<display-name>375 Sky Arts HD</display-name>
+		<display-name>375</display-name>
+		<display-name>Sky Arts HD</display-name>
+	</channel>
+	<channel id="I376.750660.microsoft.com">
+		<display-name>376 Sky Box Off Evnts</display-name>
+		<display-name>376</display-name>
+		<display-name>Sky Box Off Evnts</display-name>
+		<display-name>Sky Box Office Events</display-name>
+	</channel>
+	<channel id="I377.751511.microsoft.com">
+		<display-name>377 SKY BOX OFFICE</display-name>
+		<display-name>377</display-name>
+		<display-name>SKY BOX OFFICE</display-name>
+	</channel>
+	<channel id="I378.756554.microsoft.com">
+		<display-name>378 Sky Box Office HD1</display-name>
+		<display-name>378</display-name>
+		<display-name>Sky Box Office HD1</display-name>
+	</channel>
+	<channel id="I379.756555.microsoft.com">
+		<display-name>379 Sky Box Office HD2</display-name>
+		<display-name>379</display-name>
+		<display-name>Sky Box Office HD2</display-name>
+	</channel>
+	<channel id="I380.92.microsoft.com">
+		<display-name>380 Sky Movies Act/Thr</display-name>
+		<display-name>380</display-name>
+		<display-name>Sky Movies Act/Thr</display-name>
+		<display-name>Sky Movies Action/Thriller</display-name>
+	</channel>
+	<channel id="I381.91.microsoft.com">
+		<display-name>381 Sky Movies Comedy</display-name>
+		<display-name>381</display-name>
+		<display-name>Sky Movies Comedy</display-name>
+	</channel>
+	<channel id="I382.756491.microsoft.com">
+		<display-name>382 Sky Movies Crime</display-name>
+		<display-name>382</display-name>
+		<display-name>Sky Movies Crime</display-name>
+	</channel>
+	<channel id="I383.755087.microsoft.com">
+		<display-name>383 Sky Movies Crime HD</display-name>
+		<display-name>383</display-name>
+		<display-name>Sky Movies Crime HD</display-name>
+	</channel>
+	<channel id="I384.727784.microsoft.com">
+		<display-name>384 Sky Movies Disney</display-name>
+		<display-name>384</display-name>
+		<display-name>Sky Movies Disney</display-name>
+	</channel>
+	<channel id="I385.750602.microsoft.com">
+		<display-name>385 Sky Movies Drama</display-name>
+		<display-name>385</display-name>
+		<display-name>Sky Movies Drama</display-name>
+	</channel>
+	<channel id="I386.727783.microsoft.com">
+		<display-name>386 Sky Movies Family</display-name>
+		<display-name>386</display-name>
+		<display-name>Sky Movies Family</display-name>
+	</channel>
+	<channel id="I387.727785.microsoft.com">
+		<display-name>387 Sky Movies Greats</display-name>
+		<display-name>387</display-name>
+		<display-name>Sky Movies Greats</display-name>
+	</channel>
+	<channel id="I388.728558.microsoft.com">
+		<display-name>388 Sky Movies Premiere</display-name>
+		<display-name>388</display-name>
+		<display-name>Sky Movies Premiere</display-name>
+		<display-name>Sky Movies Premiere +1</display-name>
+	</channel>
+	<channel id="I389.750600.microsoft.com">
+		<display-name>389 Sky Movies Premiere</display-name>
+		<display-name>389</display-name>
+		<display-name>Sky Movies Premiere</display-name>
+	</channel>
+	<channel id="I390.757355.microsoft.com">
+		<display-name>390 Sky Movies Premiere</display-name>
+		<display-name>390</display-name>
+		<display-name>Sky Movies Premiere</display-name>
+		<display-name>Sky Movies Premiere HD</display-name>
+	</channel>
+	<channel id="I391.727786.microsoft.com">
+		<display-name>391 Sky Movies Sci/Horr</display-name>
+		<display-name>391</display-name>
+		<display-name>Sky Movies Sci/Horr</display-name>
+		<display-name>Sky Movies Sci-Fi/Horror</display-name>
+	</channel>
+	<channel id="I392.727787.microsoft.com">
+		<display-name>392 Sky Movies Select</display-name>
+		<display-name>392</display-name>
+		<display-name>Sky Movies Select</display-name>
+	</channel>
+	<channel id="I393.756489.microsoft.com">
+		<display-name>393 Sky Movies Showcase</display-name>
+		<display-name>393</display-name>
+		<display-name>Sky Movies Showcase</display-name>
+		<display-name>Sky Movies Oscars</display-name>
+	</channel>
+	<channel id="I394.93.microsoft.com">
+		<display-name>394 Sky News</display-name>
+		<display-name>394</display-name>
+		<display-name>Sky News</display-name>
+	</channel>
+	<channel id="I395.255.microsoft.com">
+		<display-name>395 Sky One</display-name>
+		<display-name>395</display-name>
+		<display-name>Sky One</display-name>
+	</channel>
+	<channel id="I396.755657.microsoft.com">
+		<display-name>396 Sky One HD</display-name>
+		<display-name>396</display-name>
+		<display-name>Sky One HD</display-name>
+	</channel>
+	<channel id="I397.756578.microsoft.com">
+		<display-name>397 Sky Poker</display-name>
+		<display-name>397</display-name>
+		<display-name>Sky Poker</display-name>
+	</channel>
+	<channel id="I398.756598.microsoft.com">
+		<display-name>398 Sky Retail Info</display-name>
+		<display-name>398</display-name>
+		<display-name>Sky Retail Info</display-name>
+	</channel>
+	<channel id="I399.756597.microsoft.com">
+		<display-name>399 Sky Retail Info HD</display-name>
+		<display-name>399</display-name>
+		<display-name>Sky Retail Info HD</display-name>
+	</channel>
+	<channel id="I400.727788.microsoft.com">
+		<display-name>400 Sky Showcase HD</display-name>
+		<display-name>400</display-name>
+		<display-name>Sky Showcase HD</display-name>
+		<display-name>Sky Movies Oscars HD</display-name>
+	</channel>
+	<channel id="I401.503.microsoft.com">
+		<display-name>401 Sky Sports 1</display-name>
+		<display-name>401</display-name>
+		<display-name>Sky Sports 1</display-name>
+	</channel>
+	<channel id="I402.223160.microsoft.com">
+		<display-name>402 Sky Sports 2</display-name>
+		<display-name>402</display-name>
+		<display-name>Sky Sports 2</display-name>
+	</channel>
+	<channel id="I403.397065.microsoft.com">
+		<display-name>403 Sky Sports 3</display-name>
+		<display-name>403</display-name>
+		<display-name>Sky Sports 3</display-name>
+	</channel>
+	<channel id="I404.757365.microsoft.com">
+		<display-name>404 Sky Sports HD 3</display-name>
+		<display-name>404</display-name>
+		<display-name>Sky Sports HD 3</display-name>
+	</channel>
+	<channel id="I405.756532.microsoft.com">
+		<display-name>405 Sky Sports HD1</display-name>
+		<display-name>405</display-name>
+		<display-name>Sky Sports HD1</display-name>
+	</channel>
+	<channel id="I406.756533.microsoft.com">
+		<display-name>406 Sky Sports HD2</display-name>
+		<display-name>406</display-name>
+		<display-name>Sky Sports HD2</display-name>
+	</channel>
+	<channel id="I407.750598.microsoft.com">
+		<display-name>407 Sky Spts Extra</display-name>
+		<display-name>407</display-name>
+		<display-name>Sky Spts Extra</display-name>
+		<display-name>Sky Sports Extra</display-name>
+	</channel>
+	<channel id="I408.631679.microsoft.com">
+		<display-name>408 Sky Spts News</display-name>
+		<display-name>408</display-name>
+		<display-name>Sky Spts News</display-name>
+		<display-name>Sky Sports News</display-name>
+	</channel>
+	<channel id="I409.755026.microsoft.com">
+		<display-name>409 Sky Travel Shop</display-name>
+		<display-name>409</display-name>
+		<display-name>Sky Travel Shop</display-name>
+	</channel>
+	<channel id="I410.752184.microsoft.com">
+		<display-name>410 Sky Two</display-name>
+		<display-name>410</display-name>
+		<display-name>Sky Two</display-name>
+	</channel>
+	<channel id="I411.754838.microsoft.com">
+		<display-name>411 SKY Vegas Live</display-name>
+		<display-name>411</display-name>
+		<display-name>SKY Vegas Live</display-name>
+	</channel>
+	<channel id="I412.755042.microsoft.com">
+		<display-name>412 Sky Venue</display-name>
+		<display-name>412</display-name>
+		<display-name>Sky Venue</display-name>
+	</channel>
+	<channel id="I413.752838.microsoft.com">
+		<display-name>413 SkyCust1</display-name>
+		<display-name>413</display-name>
+		<display-name>SkyCust1</display-name>
+		<display-name>Sky Customer Channel</display-name>
+	</channel>
+	<channel id="I414.752839.microsoft.com">
+		<display-name>414 SkyCust2</display-name>
+		<display-name>414</display-name>
+		<display-name>SkyCust2</display-name>
+		<display-name>Sky Customer Channel</display-name>
+	</channel>
+	<channel id="I415.752841.microsoft.com">
+		<display-name>415 SkyCust4</display-name>
+		<display-name>415</display-name>
+		<display-name>SkyCust4</display-name>
+		<display-name>Sky Customer Channel</display-name>
+	</channel>
+	<channel id="I416.752809.microsoft.com">
+		<display-name>416 SkyTravShp</display-name>
+		<display-name>416</display-name>
+		<display-name>SkyTravShp</display-name>
+		<display-name>SkyTravel Shop</display-name>
+	</channel>
+	<channel id="I417.752850.microsoft.com">
+		<display-name>417 SkyWelcome</display-name>
+		<display-name>417</display-name>
+		<display-name>SkyWelcome</display-name>
+		<display-name>Sky Welcome</display-name>
+	</channel>
+	<channel id="I418.757385.microsoft.com">
+		<display-name>418 Smart Live TV</display-name>
+		<display-name>418</display-name>
+		<display-name>Smart Live TV</display-name>
+	</channel>
+	<channel id="I419.751548.microsoft.com">
+		<display-name>419 Smash Hits!</display-name>
+		<display-name>419</display-name>
+		<display-name>Smash Hits!</display-name>
+	</channel>
+	<channel id="I420.757354.microsoft.com">
+		<display-name>420 Southern Africa Dire</display-name>
+		<display-name>420</display-name>
+		<display-name>Southern Africa Dire</display-name>
+		<display-name>Southern Africa Direct</display-name>
+	</channel>
+	<channel id="I421.752828.microsoft.com">
+		<display-name>421 SouthForU</display-name>
+		<display-name>421</display-name>
+		<display-name>SouthForU</display-name>
+		<display-name>South For You</display-name>
+	</channel>
+	<channel id="I422.754867.microsoft.com">
+		<display-name>422 Speed Auction TV</display-name>
+		<display-name>422</display-name>
+		<display-name>Speed Auction TV</display-name>
+	</channel>
+	<channel id="I423.752842.microsoft.com">
+		<display-name>423 SpiceXtreme</display-name>
+		<display-name>423</display-name>
+		<display-name>SpiceXtreme</display-name>
+		<display-name>Spice Xtreme</display-name>
+	</channel>
+	<channel id="I424.756588.microsoft.com">
+		<display-name>424 Sport XXX Babes</display-name>
+		<display-name>424</display-name>
+		<display-name>Sport XXX Babes</display-name>
+	</channel>
+	<channel id="I425.755054.microsoft.com">
+		<display-name>425 Sport XXX Wives</display-name>
+		<display-name>425</display-name>
+		<display-name>Sport XXX Wives</display-name>
+	</channel>
+	<channel id="I426.753267.microsoft.com">
+		<display-name>426 SportxxxGirls</display-name>
+		<display-name>426</display-name>
+		<display-name>SportxxxGirls</display-name>
+	</channel>
+	<channel id="I427.756569.microsoft.com">
+		<display-name>427 Star Gold</display-name>
+		<display-name>427</display-name>
+		<display-name>Star Gold</display-name>
+	</channel>
+	<channel id="I428.760355.microsoft.com">
+		<display-name>428 Star Life OK</display-name>
+		<display-name>428</display-name>
+		<display-name>Star Life OK</display-name>
+	</channel>
+	<channel id="I429.756559.microsoft.com">
+		<display-name>429 Star One</display-name>
+		<display-name>429</display-name>
+		<display-name>Star One</display-name>
+	</channel>
+	<channel id="I430.751506.microsoft.com">
+		<display-name>430 Star Plus</display-name>
+		<display-name>430</display-name>
+		<display-name>Star Plus</display-name>
+	</channel>
+	<channel id="I431.756507.microsoft.com">
+		<display-name>431 Sumo TV</display-name>
+		<display-name>431</display-name>
+		<display-name>Sumo TV</display-name>
+	</channel>
+	<channel id="I432.757380.microsoft.com">
+		<display-name>432 Sunrise TV</display-name>
+		<display-name>432</display-name>
+		<display-name>Sunrise TV</display-name>
+	</channel>
+	<channel id="I433.758010.microsoft.com">
+		<display-name>433 SuperCasino</display-name>
+		<display-name>433</display-name>
+		<display-name>SuperCasino</display-name>
+	</channel>
+	<channel id="I434.756744.microsoft.com">
+		<display-name>434 Supreme Master TV</display-name>
+		<display-name>434</display-name>
+		<display-name>Supreme Master TV</display-name>
+	</channel>
+	<channel id="I435.318488.microsoft.com">
+		<display-name>435 Syfy</display-name>
+		<display-name>435</display-name>
+		<display-name>Syfy</display-name>
+		<display-name>SCI FI</display-name>
+	</channel>
+	<channel id="I436.756005.microsoft.com">
+		<display-name>436 Syfy +1</display-name>
+		<display-name>436</display-name>
+		<display-name>Syfy +1</display-name>
+		<display-name>Sci Fi Channel +1</display-name>
+	</channel>
+	<channel id="I437.752753.microsoft.com">
+		<display-name>437 TBNEurope</display-name>
+		<display-name>437</display-name>
+		<display-name>TBNEurope</display-name>
+		<display-name>TBN Europe</display-name>
+	</channel>
+	<channel id="I438.750596.microsoft.com">
+		<display-name>438 TCM</display-name>
+		<display-name>438</display-name>
+		<display-name>TCM</display-name>
+		<display-name>Turner Classic Movies</display-name>
+	</channel>
+	<channel id="I439.755555.microsoft.com">
+		<display-name>439 TCM +1</display-name>
+		<display-name>439</display-name>
+		<display-name>TCM +1</display-name>
+	</channel>
+	<channel id="I440.757387.microsoft.com">
+		<display-name>440 Tease Me</display-name>
+		<display-name>440</display-name>
+		<display-name>Tease Me</display-name>
+	</channel>
+	<channel id="I441.757393.microsoft.com">
+		<display-name>441 Tease Me 2</display-name>
+		<display-name>441</display-name>
+		<display-name>Tease Me 2</display-name>
+	</channel>
+	<channel id="I442.754560.microsoft.com">
+		<display-name>442 Teletext Holiday</display-name>
+		<display-name>442</display-name>
+		<display-name>Teletext Holiday</display-name>
+		<display-name>Teletext Holidays</display-name>
+	</channel>
+	<channel id="I443.26250.microsoft.com">
+		<display-name>443 Television X 2</display-name>
+		<display-name>443</display-name>
+		<display-name>Television X 2</display-name>
+	</channel>
+	<channel id="I444.26252.microsoft.com">
+		<display-name>444 Television X 3</display-name>
+		<display-name>444</display-name>
+		<display-name>Television X 3</display-name>
+	</channel>
+	<channel id="I445.756587.microsoft.com">
+		<display-name>445 Television X 4</display-name>
+		<display-name>445</display-name>
+		<display-name>Television X 4</display-name>
+	</channel>
+	<channel id="I446.421060.microsoft.com">
+		<display-name>446 TG4</display-name>
+		<display-name>446</display-name>
+		<display-name>TG4</display-name>
+	</channel>
+	<channel id="I447.751936.microsoft.com">
+		<display-name>447 Thane Direct</display-name>
+		<display-name>447</display-name>
+		<display-name>Thane Direct</display-name>
+	</channel>
+	<channel id="I448.754866.microsoft.com">
+		<display-name>448 Thane Stop and Shop</display-name>
+		<display-name>448</display-name>
+		<display-name>Thane Stop and Shop</display-name>
+	</channel>
+	<channel id="I449.756520.microsoft.com">
+		<display-name>449 The Baby Channel</display-name>
+		<display-name>449</display-name>
+		<display-name>The Baby Channel</display-name>
+	</channel>
+	<channel id="I450.351669.microsoft.com">
+		<display-name>450 The Box</display-name>
+		<display-name>450</display-name>
+		<display-name>The Box</display-name>
+	</channel>
+	<channel id="I451.756779.microsoft.com">
+		<display-name>451 The Other Side</display-name>
+		<display-name>451</display-name>
+		<display-name>The Other Side</display-name>
+	</channel>
+	<channel id="I452.754858.microsoft.com">
+		<display-name>452 Thomson TV</display-name>
+		<display-name>452</display-name>
+		<display-name>Thomson TV</display-name>
+	</channel>
+	<channel id="I453.756539.microsoft.com">
+		<display-name>453 Tiny Pop</display-name>
+		<display-name>453</display-name>
+		<display-name>Tiny Pop</display-name>
+	</channel>
+	<channel id="I454.756772.microsoft.com">
+		<display-name>454 Tiny Pop +1</display-name>
+		<display-name>454</display-name>
+		<display-name>Tiny Pop +1</display-name>
+	</channel>
+	<channel id="I455.756542.microsoft.com">
+		<display-name>455 TJC Choice</display-name>
+		<display-name>455</display-name>
+		<display-name>TJC Choice</display-name>
+		<display-name>Jewellery Channel</display-name>
+	</channel>
+	<channel id="I456.760950.microsoft.com">
+		<display-name>456 TLC</display-name>
+		<display-name>456</display-name>
+		<display-name>TLC</display-name>
+	</channel>
+	<channel id="I457.330055.microsoft.com">
+		<display-name>457 Top Shelf TV</display-name>
+		<display-name>457</display-name>
+		<display-name>Top Shelf TV</display-name>
+	</channel>
+	<channel id="I458.750979.microsoft.com">
+		<display-name>458 Travel Channel</display-name>
+		<display-name>458</display-name>
+		<display-name>Travel Channel</display-name>
+	</channel>
+	<channel id="I459.752784.microsoft.com">
+		<display-name>459 Travel Channel + 1</display-name>
+		<display-name>459</display-name>
+		<display-name>Travel Channel + 1</display-name>
+		<display-name>Travel Channel +1</display-name>
+	</channel>
+	<channel id="I460.757353.microsoft.com">
+		<display-name>460 Travel Channel 2</display-name>
+		<display-name>460</display-name>
+		<display-name>Travel Channel 2</display-name>
+	</channel>
+	<channel id="I461.754848.microsoft.com">
+		<display-name>461 True Movies</display-name>
+		<display-name>461</display-name>
+		<display-name>True Movies</display-name>
+	</channel>
+	<channel id="I462.756527.microsoft.com">
+		<display-name>462 True Movies 2</display-name>
+		<display-name>462</display-name>
+		<display-name>True Movies 2</display-name>
+	</channel>
+	<channel id="I463.752224.microsoft.com">
+		<display-name>463 TV SHOP</display-name>
+		<display-name>463</display-name>
+		<display-name>TV SHOP</display-name>
+	</channel>
+	<channel id="I464.751743.microsoft.com">
+		<display-name>464 TV Warehouse</display-name>
+		<display-name>464</display-name>
+		<display-name>TV Warehouse</display-name>
+	</channel>
+	<channel id="I465.756544.microsoft.com">
+		<display-name>465 TV Warehouse 1</display-name>
+		<display-name>465</display-name>
+		<display-name>TV Warehouse 1</display-name>
+	</channel>
+	<channel id="I466.751017.microsoft.com">
+		<display-name>466 TV5</display-name>
+		<display-name>466</display-name>
+		<display-name>TV5</display-name>
+		<display-name>TV5 Monde</display-name>
+	</channel>
+	<channel id="I467.751269.microsoft.com">
+		<display-name>467 TVE Internacional</display-name>
+		<display-name>467</display-name>
+		<display-name>TVE Internacional</display-name>
+	</channel>
+	<channel id="I468.752126.microsoft.com">
+		<display-name>468 TVE1</display-name>
+		<display-name>468</display-name>
+		<display-name>TVE1</display-name>
+		<display-name>TVE 1</display-name>
+	</channel>
+	<channel id="I469.752806.microsoft.com">
+		<display-name>469 TVWARESEL</display-name>
+		<display-name>469</display-name>
+		<display-name>TVWARESEL</display-name>
+		<display-name>TV Warehouse Select</display-name>
+	</channel>
+	<channel id="I470.753155.microsoft.com">
+		<display-name>470 TVX / REDHOT</display-name>
+		<display-name>470</display-name>
+		<display-name>TVX / REDHOT</display-name>
+		<display-name>Television X</display-name>
+	</channel>
+	<channel id="I471.756771.microsoft.com">
+		<display-name>471 TWC Fight</display-name>
+		<display-name>471</display-name>
+		<display-name>TWC Fight</display-name>
+	</channel>
+	<channel id="I472.756548.microsoft.com">
+		<display-name>472 U Save. TV</display-name>
+		<display-name>472</display-name>
+		<display-name>U Save. TV</display-name>
+	</channel>
+	<channel id="I473.754891.microsoft.com">
+		<display-name>473 UCB TV</display-name>
+		<display-name>473</display-name>
+		<display-name>UCB TV</display-name>
+	</channel>
+	<channel id="I474.759956.microsoft.com">
+		<display-name>474 UMP Movies</display-name>
+		<display-name>474</display-name>
+		<display-name>UMP Movies</display-name>
+	</channel>
+	<channel id="I475.750649.microsoft.com">
+		<display-name>475 Universal Channel</display-name>
+		<display-name>475</display-name>
+		<display-name>Universal Channel</display-name>
+		<display-name>Hallmark</display-name>
+	</channel>
+	<channel id="I476.757348.microsoft.com">
+		<display-name>476 Urban TV</display-name>
+		<display-name>476</display-name>
+		<display-name>Urban TV</display-name>
+	</channel>
+	<channel id="I477.752797.microsoft.com">
+		<display-name>477 VAULT</display-name>
+		<display-name>477</display-name>
+		<display-name>VAULT</display-name>
+		<display-name>The Vault</display-name>
+	</channel>
+	<channel id="I478.756560.microsoft.com">
+		<display-name>478 Venus TV</display-name>
+		<display-name>478</display-name>
+		<display-name>Venus TV</display-name>
+	</channel>
+	<channel id="I479.232973.microsoft.com">
+		<display-name>479 VH1</display-name>
+		<display-name>479</display-name>
+		<display-name>VH1</display-name>
+	</channel>
+	<channel id="I480.753727.microsoft.com">
+		<display-name>480 VH1 Classic</display-name>
+		<display-name>480</display-name>
+		<display-name>VH1 Classic</display-name>
+	</channel>
+	<channel id="I481.757391.microsoft.com">
+		<display-name>481 Viewers' Wives</display-name>
+		<display-name>481</display-name>
+		<display-name>Viewers' Wives</display-name>
+	</channel>
+	<channel id="I482.756547.microsoft.com">
+		<display-name>482 Vinappris</display-name>
+		<display-name>482</display-name>
+		<display-name>Vinappris</display-name>
+	</channel>
+	<channel id="I483.752179.microsoft.com">
+		<display-name>483 Viva</display-name>
+		<display-name>483</display-name>
+		<display-name>Viva</display-name>
+	</channel>
+	<channel id="I484.756522.microsoft.com">
+		<display-name>484 Wedding TV</display-name>
+		<display-name>484</display-name>
+		<display-name>Wedding TV</display-name>
+	</channel>
+	<channel id="I485.756523.microsoft.com">
+		<display-name>485 Wedding TV +1</display-name>
+		<display-name>485</display-name>
+		<display-name>Wedding TV +1</display-name>
+	</channel>
+	<channel id="I486.754832.microsoft.com">
+		<display-name>486 Wine TV</display-name>
+		<display-name>486</display-name>
+		<display-name>Wine TV</display-name>
+	</channel>
+	<channel id="I487.754890.microsoft.com">
+		<display-name>487 Wonderful</display-name>
+		<display-name>487</display-name>
+		<display-name>Wonderful</display-name>
+	</channel>
+	<channel id="I488.756557.microsoft.com">
+		<display-name>488 Word Network</display-name>
+		<display-name>488</display-name>
+		<display-name>Word Network</display-name>
+	</channel>
+	<channel id="I489.755050.microsoft.com">
+		<display-name>489 Xplicit XXX</display-name>
+		<display-name>489</display-name>
+		<display-name>Xplicit XXX</display-name>
+	</channel>
+	<channel id="I490.752846.microsoft.com">
+		<display-name>490 XXXTV</display-name>
+		<display-name>490</display-name>
+		<display-name>XXXTV</display-name>
+		<display-name>XXX TV</display-name>
+	</channel>
+	<channel id="I491.751795.microsoft.com">
+		<display-name>491 Yesterday</display-name>
+		<display-name>491</display-name>
+		<display-name>Yesterday</display-name>
+	</channel>
+	<channel id="I492.26238.microsoft.com">
+		<display-name>492 Yesterday+1</display-name>
+		<display-name>492</display-name>
+		<display-name>Yesterday+1</display-name>
+		<display-name>Yesterday +1</display-name>
+	</channel>
+	<channel id="I493.756580.microsoft.com">
+		<display-name>493 YouPlay TV</display-name>
+		<display-name>493</display-name>
+		<display-name>YouPlay TV</display-name>
+	</channel>
+	<channel id="I494.757384.microsoft.com">
+		<display-name>494 YouPlay TV2</display-name>
+		<display-name>494</display-name>
+		<display-name>YouPlay TV2</display-name>
+	</channel>
+	<channel id="I495.751642.microsoft.com">
+		<display-name>495 Zee Cinema</display-name>
+		<display-name>495</display-name>
+		<display-name>Zee Cinema</display-name>
+	</channel>
+	<channel id="I496.755039.microsoft.com">
+		<display-name>496 Zee Gujarati</display-name>
+		<display-name>496</display-name>
+		<display-name>Zee Gujarati</display-name>
+	</channel>
+	<channel id="I497.770230.microsoft.com">
+		<display-name>497 Zee One</display-name>
+		<display-name>497</display-name>
+		<display-name>Zee One</display-name>
+	</channel>
+	<channel id="I498.79207.microsoft.com">
+		<display-name>498 Zee TV</display-name>
+		<display-name>498</display-name>
+		<display-name>Zee TV</display-name>
+	</channel>
+	<channel id="I499.751643.microsoft.com">
+		<display-name>499 Zing</display-name>
+		<display-name>499</display-name>
+		<display-name>Zing</display-name>
+	</channel>
+	<channel id="I500.756509.microsoft.com">
+		<display-name>500 Zone Reality Extra</display-name>
+		<display-name>500</display-name>
+		<display-name>Zone Reality Extra</display-name>
+	</channel>
